@@ -33,10 +33,6 @@ me = ArjunMBabu()
 me.say_hi()
 ```
 
-> Motivated and detail-oriented software developer seeking opportunities to contribute technical skills and problem-solving abilities in a growth-oriented organization.
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -80,46 +76,8 @@ me.say_hi()
 
 </div>
 
-<details>
-<summary><b>Quiz Application — Details</b></summary>
-<br/>
 
-- Authentication and role-based access control (User/Admin)
-- Quiz creation, scoring and retake workflows
-- Analytics-based performance tracking with MySQL persistence
-- Separate portals for users and administrators
 
-**Stack:** Python | Flask | MySQL | Bootstrap
-
-</details>
-
-<details>
-<summary><b>Study Planner — Details</b></summary>
-<br/>
-
-- Task management, notes and session tracking
-- REST APIs for all CRUD operations
-- Backend-driven state handling with Express.js
-- MySQL for scalable persistent data management
-
-**Stack:** React | Node.js | Express.js | MySQL
-
-</details>
-
-<details>
-<summary><b>Doctor Appointment Booking System — Details</b></summary>
-<br/>
-
-- Appointment scheduling with duplicate slot prevention
-- Real-time appointment status tracking
-- Doctor leave management system
-- Efficient REST API backend with MySQL
-
-**Stack:** React | Node.js | Express.js | MySQL
-
-</details>
-
----
 
 ## GitHub Stats
 
@@ -129,50 +87,13 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmbabu&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMB-007&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunmbabu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AMB-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
----
-
-## Education
-
-| Institution | Qualification | Year |
-|---|---|:---:|
-| Toc H Institute of Science and Technology | B.Tech — Computer Science and Engineering | 2022 – 2026 |
-| HSS Koothattukulam | Class 12 — Science | 2020 – 2022 |
-| Bappuji English Medium School | Class 10 — CBSE | 2020 |
-
----
-
-## Certifications & Activities
-
-<div align="center">
-
-| Program | Organization |
-|---|---|
-| Front End Web Development — 60 Hours Training | Aesthetix Edu-Tech |
-| Flutter Internship Program | Genzee Technologies |
-| SquardSkills Industry Leadership Training Program | GooseBerry Media |
-
-</div>
-
----
-
-## Soft Skills
-
-<div align="center">
-
-```
-Problem Solving  |  Time Management  |  Adaptability  |  Communication  |  Teamwork
-```
-
-</div>
-
----
 
 ## Let's Connect
 
