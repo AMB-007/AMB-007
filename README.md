@@ -8,10 +8,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AMB-007)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=AMB-007&style=flat-square&color=6E40C9&logo=eye&label=Profile+Views)](https://github.com/AMB-007)
+[![WhatsApp](https://img.shields.io/badge/+91%2062356%2089805-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/916235689805)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=AMB-007&style=flat-square&color=6E40C9&label=Profile+Views)](https://github.com/AMB-007)
 
 </div>
 
@@ -37,6 +38,7 @@ const developer = {
 };
 ```
 
+> Motivated and detail-oriented full-stack developer with hands-on experience building production-grade web applications. Passionate about clean architecture, efficient APIs, and solving real-world problems through technology.
 
 </td>
 <td valign="top" width="40%">
@@ -91,11 +93,11 @@ const developer = {
       <br/><sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js"/>
+      <img src="https://cdn.simpleicons.org/express/ffffff" width="48" height="48" alt="Express.js"/>
       <br/><sub><b>Express.js</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
+      <img src="https://cdn.simpleicons.org/flask/ffffff" width="48" height="48" alt="Flask"/>
       <br/><sub><b>Flask</b></sub>
     </td>
     <td align="center" width="110">
@@ -133,7 +135,7 @@ const developer = {
       <br/><sub><b>Git</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+      <img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48" alt="GitHub"/>
       <br/><sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="110">
@@ -211,7 +213,7 @@ const developer = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
 
