@@ -109,14 +109,6 @@ const developer = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMB-007&theme=github_dark" width="96%"/>
-
-</div>
-
----
-
 ### `> contributions`
 
 <div align="center">
@@ -128,14 +120,6 @@ const developer = {
 </picture>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AMB-007&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=7C3AED&hide_border=true&border_radius=10&custom_title=Activity%20Graph" width="96%"/>
-
-</div>
-
----
 
 ### `> achievements`
 
