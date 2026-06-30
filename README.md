@@ -20,10 +20,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table width="100%">
-<tr>
-<td valign="top" width="60%">
-
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; whoami
 
 ```ts
@@ -37,17 +33,6 @@ const developer = {
   status   : "🟢 Open to Opportunities",
 };
 ```
-
-> Motivated and detail-oriented full-stack developer with hands-on experience building production-grade web applications. Passionate about clean architecture, efficient APIs, and solving real-world problems through technology.
-
-</td>
-<td valign="top" width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB-007&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=c9d1d9" width="100%" />
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -159,9 +144,15 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AMB-007&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=AMB-007&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="170" />
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=AMB-007&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB-007&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=c9d1d9" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AMB-007&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" width="60%" />
 
 </div>
 
@@ -197,7 +188,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AMB-007&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AMB-007&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="95%"/>
 
 </div>
 
