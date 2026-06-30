@@ -37,7 +37,6 @@ const developer = {
 };
 ```
 
-> Motivated and detail-oriented full-stack developer with hands-on experience building production-grade web applications. Passionate about clean architecture, efficient APIs, and solving real-world problems through technology.
 
 </td>
 <td valign="top" width="40%">
