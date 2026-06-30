@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916235689805)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=AMB-007&style=for-the-badge&color=00D9FF&label=Profile+Views)](https://github.com/AMB-007)
 
 </div>
@@ -58,99 +59,39 @@ const developer = {
 
 <div align="center">
 
-![Languages](https://img.shields.io/badge/Languages-00D9FF?style=flat-square&logo=code&logoColor=black)
+**🗣️ Languages**
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      <br/><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-      <br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-      <br/><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-      <br/><sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black) &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square) &nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 
 <br/>
 
-![Frameworks](https://img.shields.io/badge/Frameworks%20%26%20Runtime-00D9FF?style=flat-square&logo=stackshare&logoColor=black)
+**🚀 Frameworks & Runtime**
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-      <br/><sub><b>React.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-      <br/><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/express/ffffff" width="48" height="48" alt="Express.js"/>
-      <br/><sub><b>Express.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/flask/ffffff" width="48" height="48" alt="Flask"/>
-      <br/><sub><b>Flask</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/>
-      <br/><sub><b>Bootstrap</b></sub>
-    </td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logoColor=black) &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square) &nbsp;
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) &nbsp;
+![Flask](https://img.shields.io/badge/Flask-092E20?style=flat-square) &nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square)
 
 <br/>
 
-![Databases](https://img.shields.io/badge/Databases-00D9FF?style=flat-square&logo=databricks&logoColor=black)
+**🗄️ Databases**
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-      <br/><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
-      <br/><sub><b>MongoDB</b></sub>
-    </td>
-  </tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square) &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
 
 <br/>
 
-![Tools](https://img.shields.io/badge/Tools%20%26%20Workflow-00D9FF?style=flat-square&logo=toolbox&logoColor=black)
+**🔧 Tools & Workflow**
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-      <br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48" alt="GitHub"/>
-      <br/><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-      <br/><sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/>
-      <br/><sub><b>Postman</b></sub>
-    </td>
-  </tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square) &nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square) &nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square) &nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square) &nbsp;
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square)
 
 </div>
 
