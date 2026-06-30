@@ -10,9 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AMB-007)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/+91%2062356%2089805-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/916235689805)&nbsp;
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp
 
 </div>
 
@@ -138,7 +136,7 @@ const developer = {
 
 <br/>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📊 GitHub Analytics
 
@@ -184,11 +182,34 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🏆 Achievements
+### 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AMB-007&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="95%"/>
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" height="80" alt="Pair Extraordinaire"/>
+      <br/><sub><b>Pair Extraordinaire</b></sub>
+      <br/><sub>Co-authored commits</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" height="80" alt="Pull Shark"/>
+      <br/><sub><b>Pull Shark</b></sub>
+      <br/><sub>Pull requests merged</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" height="80" alt="YOLO"/>
+      <br/><sub><b>YOLO</b></sub>
+      <br/><sub>Merged without review</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" height="80" alt="Starstruck"/>
+      <br/><sub><b>Starstruck</b></sub>
+      <br/><sub>Created a popular repo</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
