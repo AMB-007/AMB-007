@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunmbabu)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AMB-007)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=AMB-007&style=flat-square&color=6E40C9&logo=eye&label=Profile+Views)](https://github.com/AMB-007)
@@ -212,7 +212,7 @@ const developer = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunmbabu)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
 
