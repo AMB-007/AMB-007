@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AMB-007)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/+91%2062356%2089805-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/916235689805)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=AMB-007&style=flat-square&color=6E40C9&label=Profile+Views)](https://github.com/AMB-007)
+
 
 </div>
 
