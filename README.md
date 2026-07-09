@@ -20,7 +20,7 @@
 ---
 
 <!-- WHOAMI -->
-<div align="center"><h2><code>{ whoami }</code></h2></div>
+<h2 align="center">Who Am I</h2>
 
 <table>
   <tr>
@@ -30,8 +30,8 @@
 const developer = {
   name     : "Arjun M Babu",
   alias    : "AMB-007",
-  degree   : "B.Tech CSE  (2022 – 2026)",
-  location : "Kerala, India 🇮🇳",
+  degree   : "B.Tech CSE  (2022 - 2026)",
+  location : "Kerala, India",
   stack    : {
     frontend : ["React.js", "HTML5", "CSS3"],
     backend  : ["Node.js", "Express.js", "Flask"],
@@ -39,13 +39,13 @@ const developer = {
     tools    : ["Git", "VS Code", "Postman"],
   },
   learning : ["TypeScript", "System Design", "Cloud"],
-  status   : "🟢 Open to Opportunities",
+  status   : "Open to Opportunities",
 };
 ```
 
 </td>
     <td valign="middle" width="45%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="95%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="95%"/>
 </td>
   </tr>
 </table>
@@ -55,21 +55,21 @@ const developer = {
 <!-- TECH STACK -->
 <div align="center">
 
-<h2><code>{ tech_stack }</code></h2>
+<h2 align="center">Tech Stack</h2>
 
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
       <img src="https://img.shields.io/badge/Languages-58A6FF?style=flat-square&labelColor=161B22"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" height="36"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" height="30"/><br/><br/>
       <img src="https://img.shields.io/badge/Frontend-58A6FF?style=flat-square&labelColor=161B22"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" height="36"/>
+      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" height="30"/>
     </td>
     <td align="center" valign="top" width="50%">
       <img src="https://img.shields.io/badge/Backend%20%26%20Database-3FB950?style=flat-square&labelColor=161B22"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark" height="36"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark" height="30"/><br/><br/>
       <img src="https://img.shields.io/badge/Tools%20%26%20Workflow-3FB950?style=flat-square&labelColor=161B22"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" height="36"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" height="30"/>
     </td>
   </tr>
 </table>
@@ -81,8 +81,7 @@ const developer = {
 <!-- GITHUB STATS -->
 <div align="center">
 
-<h2><code>{ github_stats }</code></h2>
-
+<h2 align="center">GitHub Stats</h2>
 <a href="https://github.com/AMB-007">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AMB-007&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB-007&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
@@ -109,7 +108,7 @@ const developer = {
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-<h2><code>{ activity_graph }</code></h2>
+<h2 align="center">Activity Graph</h2>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMB-007&bg_color=0D1117&color=58A6FF&line=388BFD&point=3FB950&area=true&area_color=161B22&hide_border=true&custom_title=Contribution%20Activity&radius=6&font_color=8B949E)](https://github.com/AMB-007)
 
@@ -120,7 +119,7 @@ const developer = {
 <!-- CONTRIBUTIONS -->
 <div align="center">
 
-<h2><code>{ contributions }</code></h2>
+<h2 align="center">Contributions</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake-dark.svg"/>
@@ -135,7 +134,7 @@ const developer = {
 <!-- ACHIEVEMENTS -->
 <div align="center">
 
-<h2><code>{ achievements }</code></h2>
+<h2 align="center">Achievements</h2>
 
 <table>
   <tr>
@@ -165,14 +164,14 @@ const developer = {
 <!-- CURRENTLY BUILDING -->
 <div align="center">
 
-<h2><code>{ currently_building }</code></h2>
+<h2 align="center">Currently Building</h2>
 
 ```
-  🔭  Working on   →  Full-Stack Apps  (React · Node.js · MongoDB)
-  🌱  Learning     →  TypeScript · System Design · Cloud & Docker
-  💬  Ask me about →  React · REST APIs · Python · Flask · MongoDB
-  🤝  Looking for  →  Internships · Collaborations · Open Source
-  🎯  Goal 2026    →  Ship great products & land a dev role 🚀
+  Working on   ->  Full-Stack Apps  (React · Node.js · MongoDB)
+  Learning     ->  Data Science · System Design · AI/ML
+  Ask me about ->  React · REST APIs · Python · Flask · MongoDB
+  Looking for  ->  Jobs · Collaborations · Open Source
+  Goal 2026    ->  Ship great products & land a dev role
 ```
 
 </div>
@@ -184,7 +183,7 @@ const developer = {
 
 <h3>Let's Connect & Build Something Great</h3>
 
-> *`"First, solve the problem. Then, write the code." — John Johnson`*
+> *"First, solve the problem. Then, write the code." — John Johnson*
 
 <br/>
 
