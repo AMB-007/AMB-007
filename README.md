@@ -1,25 +1,33 @@
+<!-- ╔══════════════════ HEADER ══════════════════╗ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Arjun%20M%20Babu&fontSize=52&color=0:0D1117,100:1E0A4C&fontColor=A78BFA&animation=fadeIn&stroke=7C3AED&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20AMB-007%20%7C%20Kerala%2C%20India&descSize=15&descColor=C4B5FD&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Arjun%20M%20Babu&fontSize=65&color=0:0F0F1A,40:1A1B2E,70:1F2044,100:0F0F1A&fontColor=7AA2F7&animation=fadeIn&stroke=BB9AF7&strokeWidth=2&desc=Full-Stack%20Developer%20%20·%20%20AMB-007%20%20·%20%20Kerala%2C%20India%20🇮🇳&descSize=16&descColor=7DCFFF&descAlignY=70" width="100%"/>
 
 </div>
 
-<br/>
-
+<!-- ╔══════════════════ TYPING ══════════════════╗ -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Building+full-stack+web+applications+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+Flask;Clean+code.+Scalable+systems.+Real+impact.;Open+to+opportunities+%E2%80%94+let's+connect!)](https://git.io/typing-svg)
-
-</div>
 
 <br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=780&height=55&lines=🚀+Building+Full-Stack+Web+Applications;⚡+React+·+Node.js+·+Python+·+Flask;🎯+Clean+Code+·+Scalable+Systems+·+Real+Impact;🌐+REST+APIs+·+MongoDB+·+MySQL;💼+B.Tech+CSE+2026+|+Open+to+Opportunities)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ╔══════════ SOCIAL BADGES ══════════╗ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=AMB-007&style=for-the-badge&color=7C3AED&label=Profile+Views)](https://github.com/AMB-007)
+[![GitHub](https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=0F0F1A)](https://github.com/AMB-007)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-F7768E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=AMB-007&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS&labelColor=1A1B2E)](https://github.com/AMB-007)
+
+<br/><br/>
+
+<!-- Status Pills -->
+![Open to Work](https://img.shields.io/badge/●_Open_to_Opportunities-9ECE6A?style=flat-square&labelColor=1A1B2E)&nbsp;&nbsp;
+![Degree](https://img.shields.io/badge/🎓_B.Tech_CSE_·_2026-7AA2F7?style=flat-square&labelColor=1A1B2E)&nbsp;&nbsp;
+![Location](https://img.shields.io/badge/📍_Kerala,_India-FF9E64?style=flat-square&labelColor=1A1B2E)&nbsp;&nbsp;
+![Alias](https://img.shields.io/badge/🕵️_AMB--007-BB9AF7?style=flat-square&labelColor=1A1B2E)
 
 </div>
 
@@ -27,140 +35,252 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330"/>
+<br/>
 
-### `> whoami`
+<!-- ╔══════════════════ WHOAMI ══════════════════╗ -->
 
-```ts
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
+
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  &nbsp; <code>{ whoami }</code>
+</h2>
+
+```typescript
 const developer = {
-  name     : "Arjun M Babu",
-  alias    : "AMB-007",
-  degree   : "B.Tech CSE  (2022 – 2026)",
-  location : "Kerala, India 🇮🇳",
-  focus    : [
-    "Full Stack Development",
-    "REST API Design",
-    "Scalable Systems",
-  ],
-  status   : "🟢 Open to Opportunities",
+  name        : "Arjun M Babu",
+  alias       : "AMB-007",
+  degree      : "B.Tech CSE  (2022 – 2026)",
+  location    : "Kerala, India 🇮🇳",
+
+  stack : {
+    languages : ["JavaScript", "Python"],
+    frontend  : ["React.js", "HTML5", "CSS3", "Bootstrap"],
+    backend   : ["Node.js", "Express.js", "Flask"],
+    database  : ["MongoDB", "MySQL"],
+    tools     : ["Git", "GitHub", "VS Code", "Postman"],
+  },
+
+  learning    : ["TypeScript", "System Design", "Cloud & Docker"],
+
+  softSkills  : ["Problem Solving", "Clean Architecture", "Team Work"],
+
+  status      : "🟢 Open to Opportunities",
+  motto       : "First, solve the problem. Then, write the code.",
 };
 ```
 
 <br/><br/><br/>
 
----
-
-### `> tech_stack`
-
-<div align="center">
-
-**`LANGUAGES`**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
-
 <br/>
-
-**`FRAMEWORKS & RUNTIME`**
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-092E20?style=flat-square)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square)
-
-<br/>
-
-**`DATABASES`**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
-
-<br/>
-
-**`TOOLS & WORKFLOW`**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square)&nbsp;
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square)
-
-</div>
 
 ---
 
-### `> github_stats`
+<br/>
 
+<!-- ╔══════════════════ TECH STACK ══════════════════╗ -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMB-007&theme=github_dark" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMB-007&theme=github_dark" height="170"/>
+<h2>🛠 &nbsp; <code>{ tech_stack }</code></h2>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AMB-007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="65%"/>
-
-</div>
-
-### `> contributions`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake-dark.svg" width="96%"/>
-</picture>
-
-</div>
-
-### `> achievements`
-
-<div align="center">
+<br/>
 
 <table>
   <tr>
-    <td align="center" width="160">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" height="80" alt="Pair Extraordinaire"/>
-      <br/><sub><b>Pair Extraordinaire</b></sub>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/Languages-7AA2F7?style=for-the-badge&labelColor=1A1B2E"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Frontend-BB9AF7?style=for-the-badge&labelColor=1A1B2E"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark"/>
+      <br/><br/>
     </td>
-    <td align="center" width="160">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" height="80" alt="Pull Shark"/>
-      <br/><sub><b>Pull Shark</b></sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" height="80" alt="YOLO"/>
-      <br/><sub><b>YOLO</b></sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" height="80" alt="Starstruck"/>
-      <br/><sub><b>Starstruck</b></sub>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/Backend%20%26%20Database-9ECE6A?style=for-the-badge&labelColor=1A1B2E"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Tools%20%26%20Workflow-FF9E64?style=for-the-badge&labelColor=1A1B2E"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark"/>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
 </div>
 
+<br/>
+
 ---
-
-<div align="center">
-
-*`"First, solve the problem. Then, write the code."`*
 
 <br/>
 
-[![Connect](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
-[![Mail](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;
-[![Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
+
+<!-- ╔══════════════════ GITHUB STATS ══════════════════╗ -->
+<div align="center">
+
+<h2>📊 &nbsp; <code>{ github_stats }</code></h2>
+
+<br/>
+
+<a href="https://github.com/AMB-007">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AMB-007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB-007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=420"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AMB-007&theme=tokyonight&hide_border=true&border_radius=10&card_width=720&background=1A1B2E&ring=7AA2F7&fire=FF9E64&currStreakLabel=BB9AF7&sideLabels=7DCFFF&dates=565F89&sideNums=9ECE6A&currStreakNum=E0AF68" width="72%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMB-007&theme=tokyonight" width="97%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMB-007&theme=tokyonight" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMB-007&theme=tokyonight" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMB-007&theme=tokyonight" height="170"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:1E0A4C,100:0D1117&section=footer&reversal=true" width="100%"/>
+---
+
+<br/>
+
+<!-- ╔══════════════════ ACTIVITY GRAPH ══════════════════╗ -->
+<div align="center">
+
+<h2>📈 &nbsp; <code>{ activity_graph }</code></h2>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMB-007&bg_color=1A1B2E&color=7AA2F7&line=BB9AF7&point=7DCFFF&area=true&area_color=1F2044&hide_border=true&custom_title=Arjun's%20Contribution%20Activity&radius=8&font_color=7DCFFF)](https://github.com/AMB-007)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ╔══════════════════ SNAKE ══════════════════╗ -->
+<div align="center">
+
+<h2>🐍 &nbsp; <code>{ contributions }</code></h2>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ╔══════════════════ ACHIEVEMENTS ══════════════════╗ -->
+<div align="center">
+
+<h2>🏅 &nbsp; <code>{ achievements }</code></h2>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="185">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="95" height="95" alt="Pair Extraordinaire"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Pair%20Extraordinaire-BB9AF7?style=flat-square&labelColor=1A1B2E"/>
+    </td>
+    <td align="center" width="185">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" height="95" alt="Pull Shark"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Pull%20Shark-7AA2F7?style=flat-square&labelColor=1A1B2E"/>
+    </td>
+    <td align="center" width="185">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" height="95" alt="YOLO"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/YOLO-FF9E64?style=flat-square&labelColor=1A1B2E"/>
+    </td>
+    <td align="center" width="185">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="95" height="95" alt="Starstruck"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Starstruck-E0AF68?style=flat-square&labelColor=1A1B2E"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ╔══════════════════ CURRENTLY BUILDING ══════════════════╗ -->
+<div align="center">
+
+<h2>⚡ &nbsp; <code>{ currently_building }</code></h2>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  🔭  Working on   →   Full-Stack Web Apps  (React · Node.js · MongoDB)  ║
+║  🌱  Learning     →   TypeScript · System Design · Cloud · Docker       ║
+║  💬  Ask me about →   React · REST APIs · Python · Flask · MongoDB      ║
+║  🤝  Looking for  →   Internships · Collaborations · Open Source        ║
+║  🎯  Goal 2026    →   Ship great products & land a dev role 🚀          ║
+║  ⚡  Fun fact     →   I debug with console.log, zero shame 😄           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ╔══════════════════ FOOTER CTA ══════════════════╗ -->
+<div align="center">
+
+<h3>✦ &nbsp; Let's Connect & Build Something Great &nbsp; ✦</h3>
+
+<br/>
+
+> *`"First, solve the problem. Then, write the code." — John Johnson`*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Drop_a_Mail-F7768E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu777@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=1A1B2E)](https://github.com/AMB-007)
+
+<br/><br/>
+
+</div>
+
+<!-- ╔══════════════════ FOOTER WAVE ══════════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F0F1A,40:1A1B2E,70:1F2044,100:0F0F1A&section=footer" width="100%"/>
