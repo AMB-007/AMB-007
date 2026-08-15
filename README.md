@@ -86,12 +86,18 @@ const arjun = {
 ## GitHub Stats
 
 <div align="center">
-<a href="https://github.com/AMB-007">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AMB-007&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=FAFAFA&title_color=0F172A&icon_color=475569&text_color=334155"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB-007&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=FAFAFA&title_color=0F172A&text_color=334155"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AMB-007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=FAFAFA&title_color=0F172A&icon_color=475569&text_color=334155"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB-007&layout=compact&hide_border=true&langs_count=8&bg_color=FAFAFA&title_color=0F172A&text_color=334155"/>
 <br/><br/>
-<img src="https://streak-stats.demolab.com?user=AMB-007&theme=default&hide_border=true&border_radius=6&background=FAFAFA&ring=0F172A&fire=475569&currStreakLabel=0F172A&sideLabels=475569&dates=94A3B8&sideNums=334155&currStreakNum=0F172A" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=AMB-007&hide_border=true&border_radius=6&background=FAFAFA&ring=0F172A&fire=475569&currStreakLabel=0F172A&sideLabels=475569&dates=94A3B8&sideNums=334155&currStreakNum=0F172A" width="65%"/>
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AMB-007&theme=flat&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&row=1&title.color=0F172A&icon.color=475569&text.color=334155&background=FAFAFA" width="100%"/>
 </div>
 
 <br/>
@@ -101,6 +107,20 @@ const arjun = {
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMB-007&bg_color=FAFAFA&color=0F172A&line=475569&point=0F172A&area=true&area_color=E2E8F0&hide_border=true&custom_title=Contribution+Activity&radius=4&font_color=64748B)](https://github.com/AMB-007)
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
