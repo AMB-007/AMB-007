@@ -55,7 +55,7 @@ const arjun = {
 
 </td>
     <td valign="middle" width="45%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="90%"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%"/>
 </td>
   </tr>
 </table>
