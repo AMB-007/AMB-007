@@ -129,9 +129,6 @@ const arjun = {
 ## Let's Connect
 
 <div align="center">
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a)&nbsp;
