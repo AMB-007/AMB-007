@@ -1,186 +1,162 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ARJUN M BABU · GITHUB PROFILE                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--              ✨  ARJUN M BABU · FULL-STACK DEVELOPER  ✨               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ╔══════════════════════════════════╗ -->
-<!--              HERO BANNER           -->
-<!-- ╚══════════════════════════════════╝ -->
+<!-- ════════════════════  ANIMATED HERO BANNER  ════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Arjun%20M%20Babu&fontSize=48&color=gradient&customColorList=2,3&fontColor=F8FAFC&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Kerala%2C%20India&descSize=16&descColor=93C5FD&descAlignY=58" width="100%" alt="Arjun M Babu – Full-Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=ARJUN%20M%20BABU&fontSize=55&color=0:8B5CF6,50:06B6D4,100:10B981&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=45&desc=⚡%20Full-Stack%20Developer%20%7C%20Kerala%2C%20India%20⚡&descSize=16&descColor=E2E8F0&descAlignY=68" width="100%" alt="Arjun M Babu – Full-Stack Developer"/>
+
+<br/>
+
+<!-- ════════════════════  TYPING ANIMATION  ════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=75&lines=%F0%9F%9A%80+Building+Scalable+Full-Stack+Applications;%F0%9F%94%A5+React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Flask+%C2%B7+MySQL;%F0%9F%A7%A0+Exploring+Data+Science%2C+ML+%26+AI;%F0%9F%92%BC+B.Tech+CSE+2026+%E2%80%94+Open+to+Opportunities)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ════════════════════  SOCIAL BADGES  ════════════════════ -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu2004@gmail.com)
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-10B981?style=flat-square&labelColor=064E3B)&nbsp;
+![B.Tech CSE](https://img.shields.io/badge/🎓%20B.Tech%20CSE%20·%202026-8B5CF6?style=flat-square&labelColor=5B21B6)&nbsp;
+![Kerala](https://img.shields.io/badge/📍%20Kerala%2C%20India-06B6D4?style=flat-square&labelColor=155E75)
 
 </div>
 
-<div align="center">
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1500&color=60A5FA&center=true&vCenter=true&random=false&width=620&height=40&lines=Building+scalable+full-stack+applications;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Flask+%C2%B7+MySQL;Exploring+Data+Science%2C+Machine+Learning+%26+AI;B.Tech+CSE+2026+%E2%80%94+Open+to+Opportunities)](https://git.io/typing-svg)
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            ABOUT ME                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1424?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0D1424?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/AMB-007)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0D1424?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:arjunmbabu2004@gmail.com)
-
-<br/>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-22C55E?style=flat-square&logoColor=white)&nbsp;
-![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE%20%C2%B7%202026-1E293B?style=flat-square&color=1E293B)&nbsp;
-![Kerala India](https://img.shields.io/badge/Kerala%2C%20India-1E293B?style=flat-square&color=1E293B)
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 👤 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
 <table>
 <tr>
 <td valign="top" width="55%">
 
-I'm a **Computer Science & Engineering** student focused on **full-stack development**, with hands-on experience building web applications using React, Node.js, Express.js, Flask, MySQL, and MongoDB.
+🎓 I'm a **Computer Science & Engineering** student focused on **full-stack development**, with hands-on experience building web applications using React, Node.js, Express.js, Flask, MySQL, and MongoDB.
 
-I enjoy building practical applications involving authentication, REST APIs, database management, scheduling, CRUD workflows, and responsive interfaces.
+💡 I enjoy building practical applications involving authentication, REST APIs, database management, scheduling, CRUD workflows, and responsive interfaces.
 
-I'm currently expanding into **Python Data Science, Machine Learning, Artificial Intelligence, and Power BI** through a structured 6-month training program at Luminar Technolab.
+🚀 Currently expanding into **Python Data Science, Machine Learning, Artificial Intelligence, and Power BI** through a 6-month training program at Luminar Technolab.
 
 <pre>
-Status  : Open to Opportunities
-Degree  : B.Tech CSE (2022 – 2026)
-College : Toc H Institute of Science &amp; Technology
-Location: Kerala, India
+⚡ Status   : Open to Opportunities
+🎓 Degree   : B.Tech CSE (2022 – 2026)
+🏛️ College  : Toc H Institute of Science &amp; Technology
+📍 Location : Kerala, India
 </pre>
 
 </td>
 <td valign="top" width="45%" align="center">
 
-<pre>
-┌─────────────────────────────────┐
-│  ●  ●  ●   terminal ~ arjun    │
-├─────────────────────────────────┤
-│                                 │
-│  $ whoami                       │
-│  arjun-m-babu                   │
-│                                 │
-│  $ cat role.json                │
-│  { &quot;role&quot;: &quot;Full-Stack Dev&quot; }  │
-│                                 │
-│  $ stack                        │
-│  React · Node · Python · SQL    │
-│                                 │
-│  $ learning                     │
-│  Data Science · ML · AI         │
-│                                 │
-│  $ status                       │
-│  ● Open to Opportunities        │
-│                                 │
-│  $ █                            │
-└─────────────────────────────────┘
-</pre>
+<img src="https://raw.githubusercontent.com/AMB-007/AMB-007/main/assets/terminal.svg" width="100%" alt="Terminal animation showing developer info"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          WHAT I BUILD                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      WHAT I BUILD                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🔧 What I Build
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;What I Build
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-
-**⚡ Full-Stack Applications**
-
-React, Node.js, Express.js, Flask and database-driven systems
-
+<img src="https://img.icons8.com/color/64/source-code.png" width="48"/><br/>
+<b>⚡ Full-Stack Apps</b><br/><br/>
+<sub>React, Node.js, Express.js, Flask &amp; database-driven systems</sub>
 </td>
 <td align="center" width="25%">
-
-**🔌 REST APIs**
-
-Backend APIs, CRUD operations, authentication and application workflows
-
+<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48"/><br/>
+<b>🔌 REST APIs</b><br/><br/>
+<sub>Backend APIs, CRUD operations, auth &amp; application workflows</sub>
 </td>
 <td align="center" width="25%">
-
-**🗄️ Database Systems**
-
-MySQL and MongoDB based persistent data systems with relational design
-
+<img src="https://img.icons8.com/nolan/64/database.png" width="48"/><br/>
+<b>🗄️ Database Systems</b><br/><br/>
+<sub>MySQL &amp; MongoDB based persistent data systems</sub>
 </td>
 <td align="center" width="25%">
-
-**🤖 Data & AI**
-
-Currently developing knowledge in Python Data Science, Machine Learning, AI and Power BI
-
+<img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="48"/><br/>
+<b>🤖 Data &amp; AI</b><br/><br/>
+<sub>Currently learning Data Science, ML, AI &amp; Power BI</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        FEATURED PROJECTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🧩 Quiz Application
+### <img src="https://img.icons8.com/color/28/test-passed.png"/> Quiz Application
 
-> A full-stack quiz platform with separate user and admin portals.
+> 🧩 A full-stack quiz platform with separate user and admin portals.
 
-**Tech Stack:** `Python` · `Flask` · `MySQL`
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Key Features:**
-- 🔐 Authentication system with role-based access
-- 📝 Admin portal for quiz creation and management
+- 🔐 Authentication with role-based access
+- 📝 Admin portal for quiz management
 - 🏆 Scoring engine with performance tracking
 - 🔄 Retake workflows with attempt history
 - 💾 Persistent MySQL storage
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-1E293B?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/AMB-007)
+[![Source Code](https://img.shields.io/badge/⭐%20Source%20Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
 
 </td>
 <td valign="top" width="50%">
 
-### 📅 Study Planner
+### <img src="https://img.icons8.com/color/28/planner.png"/> Study Planner
 
-> A full-stack study planning application for managing tasks, notes and study sessions.
+> 📅 A full-stack study planning app for managing tasks, notes and sessions.
 
-**Tech Stack:** `React` · `Node.js` · `Express` · `MySQL`
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Key Features:**
 - ✅ Task management with deadlines
 - 📓 Notes with session tracking
-- 🔄 REST API backend with CRUD operations
-- 💾 MySQL persistence with backend-driven state
+- 🔄 REST API backend with CRUD
+- 💾 MySQL persistence
 - 📊 Study session management
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-1E293B?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/AMB-007)
+[![Source Code](https://img.shields.io/badge/⭐%20Source%20Code-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
 
 </td>
 </tr>
@@ -190,166 +166,194 @@ Currently developing knowledge in Python Data Science, Machine Learning, AI and 
 <tr>
 <td valign="top" width="100%">
 
-### 🏥 Doctor Appointment Booking System
+### <img src="https://img.icons8.com/color/28/hospital.png"/> Doctor Appointment Booking System
 
-> A full-stack appointment booking platform with authentication and scheduling workflows.
+> 🏥 A full-stack appointment booking platform with authentication and scheduling.
 
-**Tech Stack:** `React` · `Node.js` · `Express` · `MySQL`
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Key Features:**
-- 🔐 User and doctor authentication
-- 📅 Appointment scheduling with slot management
-- ✅ Status tracking (pending / confirmed / cancelled)
-- 🚫 Duplicate slot prevention logic
-- 🏖️ Doctor leave management
-- 🔌 REST API backend with MySQL integration
+- 🔐 User and doctor authentication &nbsp;&nbsp; 📅 Appointment scheduling with slot management &nbsp;&nbsp; ✅ Status tracking (pending / confirmed / cancelled)
+- 🚫 Duplicate slot prevention &nbsp;&nbsp; 🏖️ Doctor leave management &nbsp;&nbsp; 🔌 REST API with MySQL integration
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-1E293B?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/AMB-007)
+[![Source Code](https://img.shields.io/badge/⭐%20Source%20Code-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           TECH STACK                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
 
-**Languages**
+### 💻 Languages & Frontend
 
-![Python](https://img.shields.io/badge/Python-0D1424?style=flat-square&logo=python&logoColor=3B82F6)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1424?style=flat-square&logo=javascript&logoColor=60A5FA)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-0D1424?style=flat-square&logo=html5&logoColor=60A5FA)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-0D1424?style=flat-square&logo=css3&logoColor=60A5FA)
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap&perline=6" alt="Languages and frontend technologies"/>
 
-**Frontend**
+<br/><br/>
 
-![React](https://img.shields.io/badge/React-0D1424?style=flat-square&logo=react&logoColor=60A5FA)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1424?style=flat-square&logo=bootstrap&logoColor=60A5FA)
+### ⚙️ Backend & Databases
 
-**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb&perline=5" alt="Backend and database technologies"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1424?style=flat-square&logo=node.js&logoColor=60A5FA)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-0D1424?style=flat-square&logo=express&logoColor=60A5FA)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-0D1424?style=flat-square&logo=flask&logoColor=60A5FA)
+<br/><br/>
 
-**Databases**
+### 🛠️ Tools & Platforms
 
-![MySQL](https://img.shields.io/badge/MySQL-0D1424?style=flat-square&logo=mysql&logoColor=60A5FA)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1424?style=flat-square&logo=mongodb&logoColor=60A5FA)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0D1424?style=flat-square&logo=git&logoColor=60A5FA)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-0D1424?style=flat-square&logo=github&logoColor=60A5FA)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1424?style=flat-square&logo=visual-studio-code&logoColor=60A5FA)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-0D1424?style=flat-square&logo=postman&logoColor=60A5FA)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Development tools"/>
 
 </div>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       CURRENTLY LEARNING                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY LEARNING                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📚 Currently Learning
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Currently Learning
 
 <div align="center">
 
 ### 🎓 6-Month Training Program · Luminar Technolab
-#### `Currently Pursuing` · Python · Data Science · ML/AI · Power BI
+
+[![Status](https://img.shields.io/badge/Status-Currently%20Pursuing-F97316?style=for-the-badge&labelColor=7C2D12)](https://github.com/AMB-007)&nbsp;
+[![Track](https://img.shields.io/badge/Track-Python%20·%20Data%20Science%20·%20ML%2FAI%20·%20Power%20BI-8B5CF6?style=for-the-badge&labelColor=5B21B6)](https://github.com/AMB-007)
 
 </div>
 
 <br/>
-
-**Learning Roadmap:**
-
-```
-  CORE PYTHON              MACHINE LEARNING           DEEP LEARNING & AI
-  ─────────────           ────────────────────        ──────────────────────
-  ▪ Python Fundamentals   ▪ NumPy & Pandas            ▪ Neural Networks
-  ▪ OOP & Functional      ▪ Data Cleaning             ▪ CNN & YOLO
-  ▪ Regular Expressions   ▪ Exploratory Data Analysis ▪ RNN & LSTM
-  ▪ Lists, Tuples, Sets   ▪ Statistical Analysis      ▪ OpenCV & OCR
-  ▪ Dictionaries          ▪ Matplotlib & Seaborn      ▪ Speech Recognition
-  ▪ SQL & CRUD            ▪ Regression & Classification▪ Transformers & LLM
-  ▪ Joins & Subqueries    ▪ Clustering & Evaluation   ▪ Chatbot Development
-  ▪ Aggregation           ▪ NLP Fundamentals          ▪ Model Deployment
-
-  AWS CLOUD                POWER BI
-  ─────────────           ────────────────────
-  ▪ AWS Intro             ▪ Data Visualization
-  ▪ IAM & S3              ▪ Power Query & DAX
-  ▪ EC2 & Commands        ▪ Data Modeling
-                          ▪ Dashboards & Reports
-```
 
 <div align="center">
 
-**Progress Path**
+<table>
+<tr>
+<td align="center" width="33%">
 
-`🐍 Python` → `🗄️ SQL` → `📊 EDA` → `🤖 Machine Learning` → `🧠 Deep Learning` → `☁️ AWS` → `📈 Power BI`
+**🐍 Module 1 — Python & SQL**
+
+`Python Fundamentals` `OOP`
+`Regex` `Data Structures`
+`SQL` `CRUD` `Joins`
+`Subqueries` `Aggregation`
+
+</td>
+<td align="center" width="33%">
+
+**📊 Module 2 — EDA & ML**
+
+`NumPy` `Pandas`
+`Data Cleaning` `EDA`
+`Matplotlib` `Seaborn`
+`Regression` `Classification`
+`Clustering` `NLP`
+
+</td>
+<td align="center" width="33%">
+
+**🧠 Module 3 — Deep Learning & AI**
+
+`Neural Networks` `CNN`
+`YOLO` `RNN` `LSTM`
+`OpenCV` `OCR`
+`Transformers` `LLM`
+`Chatbot Development`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**☁️ Module 4 — AWS**
+
+`AWS Intro` `IAM`
+`EC2` `S3`
+`AWS CLI`
+
+</td>
+<td align="center" width="33%">
+
+**📈 Module 5 — Power BI**
+
+`Data Visualization`
+`Power Query` `DAX`
+`Data Modeling`
+`Dashboards` `Reports`
+
+</td>
+<td align="center" width="33%">
+
+**🚀 Learning Path**
+
+`🐍` → `🗄️` → `📊` → `🤖`
+
+⬇️
+
+`🧠` → `☁️` → `📈`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        EDUCATION                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           EDUCATION                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education
 
 <table>
 <tr>
-<td width="8%" align="center">🎓</td>
+<td width="8%" align="center"><img src="https://img.icons8.com/color/48/graduation-cap.png" width="30"/></td>
 <td width="92%">
 
 **Bachelor of Technology — Computer Science & Engineering**
-Toc H Institute of Science and Technology · **2022 – 2026**
+<br/>Toc H Institute of Science and Technology · **2022 – 2026**
 
 </td>
 </tr>
 <tr>
-<td align="center">📘</td>
+<td align="center"><img src="https://img.icons8.com/color/48/school.png" width="28"/></td>
 <td>
 
 **Class 12 — Science**
-HSS Koothattukulam · **2020 – 2022**
+<br/>HSS Koothattukulam · **2020 – 2022**
 
 </td>
 </tr>
 <tr>
-<td align="center">📗</td>
+<td align="center"><img src="https://img.icons8.com/color/48/book-shelf.png" width="28"/></td>
 <td>
 
 **Class 10 — CBSE**
-Bappuji English Medium School · **2020**
+<br/>Bappuji English Medium School · **2020**
 
 </td>
 </tr>
 </table>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CERTIFICATIONS & ACTIVITIES                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      TRAINING & ACTIVITIES                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🏅 Training & Activities
 
@@ -359,7 +363,7 @@ Bappuji English Medium School · **2020**
 <td>
 
 **Front End Web Development** — 60 Hours Training Program
-Aesthetix Edu-Tech
+<br/>Aesthetix Edu-Tech
 
 </td>
 </tr>
@@ -368,7 +372,7 @@ Aesthetix Edu-Tech
 <td>
 
 **Flutter Internship Program**
-Genzee Technologies
+<br/>Genzee Technologies
 
 </td>
 </tr>
@@ -377,7 +381,7 @@ Genzee Technologies
 <td>
 
 **Industry Leadership Training Program**
-SquardSkills / GooseBerry Media
+<br/>SquardSkills / GooseBerry Media
 
 </td>
 </tr>
@@ -386,19 +390,18 @@ SquardSkills / GooseBerry Media
 <td>
 
 **NSS Volunteer**
-Health camps · Cleanliness drives · Awareness campaigns
+<br/>Health camps · Cleanliness drives · Awareness campaigns
 
 </td>
 </tr>
 </table>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB ACHIEVEMENTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB ACHIEVEMENTS                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Achievements
 
@@ -411,22 +414,22 @@ Health camps · Cleanliness drives · Awareness campaigns
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire achievement badge"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire"/>
 <br/>
 <sub><b>Pair Extraordinaire</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark achievement badge"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
 <br/>
 <sub><b>Pull Shark</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO achievement badge"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
 <br/>
 <sub><b>YOLO</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw achievement badge"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
 <br/>
 <sub><b>Quickdraw</b></sub>
 </td>
@@ -435,38 +438,41 @@ Health camps · Cleanliness drives · Awareness campaigns
 
 <br/>
 
-[![View on GitHub](https://img.shields.io/badge/View%20All%20Achievements-0D1424?style=flat-square&logo=github&logoColor=60A5FA)](https://github.com/AMB-007?tab=achievements)
+[![View on GitHub](https://img.shields.io/badge/View%20All%20Achievements-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007?tab=achievements)
 
 </div>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB ACTIVITY                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ACTIVITY                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Activity
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Bd8/giphy.gif" width="28"> &nbsp;GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMB-007&theme=github_dark" alt="Arjun M Babu GitHub profile summary"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMB-007&theme=github_dark" alt="Arjun M Babu repositories per language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMB-007&theme=radical" alt="Arjun M Babu GitHub profile summary"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMB-007&theme=radical" alt="Arjun M Babu repos per language"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AMB-007&hide_border=true&border_radius=8&background=0D1424&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&sideNums=F8FAFC&currStreakNum=F8FAFC" width="60%" alt="Arjun's GitHub Streak"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMB-007&theme=radical" alt="Arjun M Babu GitHub stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AMB-007&theme=radical&utcOffset=5.5" alt="Arjun M Babu productive time"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AMB-007&hide_border=true&border_radius=10&background=141321&ring=A855F7&fire=F97316&currStreakLabel=06B6D4&sideLabels=8B5CF6&dates=94A3B8&sideNums=F8FAFC&currStreakNum=10B981" width="60%" alt="Arjun's GitHub Streak"/>
 
 </div>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION SNAKE                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION SNAKE                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Activity
 
@@ -480,48 +486,53 @@ Health camps · Cleanliness drives · Awareness campaigns
 
 </div>
 
-<br/>
+<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         LET'S CONNECT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      LET'S CONNECT                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
 
 <div align="center">
 
-I'm open to collaboration, internship opportunities, and new projects.
+<h3>I'm always open to collaboration, internship opportunities, and exciting new projects!</h3>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0D1424?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Send%20an%20Email-0D1424?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:arjunmbabu2004@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-0D1424?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/AMB-007)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu2004@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
 
-<br/>
+<br/><br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=AMB-007&style=flat-square&color=3B82F6&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=AMB-007&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
 
----
+<!-- ════════════════════  ANIMATED FOOTER  ════════════════════ -->
 
 <div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Random dev quote"/>
+
+<br/><br/>
+
 <sub>
 
-**Building · Learning · Shipping**
+**⚡ Building · Learning · Shipping ⚡**
 
-Arjun M Babu · Full-Stack Developer · Kerala, India
+**Arjun M Babu** · Full-Stack Developer · Kerala, India
 
 [GitHub](https://github.com/AMB-007) · [LinkedIn](https://www.linkedin.com/in/arjun-m-babu-45024224a/) · [Email](mailto:arjunmbabu2004@gmail.com)
 
 </sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,3&section=footer" width="100%" alt="footer wave"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,50:06B6D4,100:10B981&section=footer" width="100%" alt="footer wave"/>
 
 </div>
