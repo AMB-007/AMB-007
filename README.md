@@ -50,17 +50,17 @@ I enjoy building practical applications involving authentication, REST APIs, dat
 
 I'm currently expanding into **Python Data Science, Machine Learning, Artificial Intelligence, and Power BI** through a structured 6-month training program at Luminar Technolab.
 
-```
+<pre>
 Status  : Open to Opportunities
 Degree  : B.Tech CSE (2022 – 2026)
-College : Toc H Institute of Science & Technology
+College : Toc H Institute of Science &amp; Technology
 Location: Kerala, India
-```
+</pre>
 
 </td>
 <td valign="top" width="45%" align="center">
 
-```
+<pre>
 ┌─────────────────────────────────┐
 │  ●  ●  ●   terminal ~ arjun    │
 ├─────────────────────────────────┤
@@ -69,7 +69,7 @@ Location: Kerala, India
 │  arjun-m-babu                   │
 │                                 │
 │  $ cat role.json                │
-│  { "role": "Full-Stack Dev" }   │
+│  { &quot;role&quot;: &quot;Full-Stack Dev&quot; }  │
 │                                 │
 │  $ stack                        │
 │  React · Node · Python · SQL    │
@@ -82,7 +82,7 @@ Location: Kerala, India
 │                                 │
 │  $ █                            │
 └─────────────────────────────────┘
-```
+</pre>
 
 </td>
 </tr>
