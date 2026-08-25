@@ -21,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu2004@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=AMB-007&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
 <br/>
 
@@ -49,12 +50,7 @@
 
 🚀 Currently expanding into **Python Data Science, Machine Learning, Artificial Intelligence, and Power BI** through a 6-month training program at Luminar Technolab.
 
-<pre>
-⚡ Status   : Open to Opportunities
-🎓 Degree   : B.Tech CSE (2022 – 2026)
-🏛️ College  : Toc H Institute of Science &amp; Technology
-📍 Location : Kerala, India
-</pre>
+
 
 </td>
 <td valign="top" width="45%" align="center">
@@ -107,90 +103,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED PROJECTS                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### <img src="https://img.icons8.com/color/28/test-passed.png"/> Quiz Application
-
-> 🧩 A full-stack quiz platform with separate user and admin portals.
-
-**Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Key Features:**
-- 🔐 Authentication with role-based access
-- 📝 Admin portal for quiz management
-- 🏆 Scoring engine with performance tracking
-- 🔄 Retake workflows with attempt history
-- 💾 Persistent MySQL storage
-
-[![Source Code](https://img.shields.io/badge/⭐%20Source%20Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
-
-</td>
-<td valign="top" width="50%">
-
-### <img src="https://img.icons8.com/color/28/planner.png"/> Study Planner
-
-> 📅 A full-stack study planning app for managing tasks, notes and sessions.
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Key Features:**
-- ✅ Task management with deadlines
-- 📓 Notes with session tracking
-- 🔄 REST API backend with CRUD
-- 💾 MySQL persistence
-- 📊 Study session management
-
-[![Source Code](https://img.shields.io/badge/⭐%20Source%20Code-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td valign="top" width="100%">
-
-### <img src="https://img.icons8.com/color/28/hospital.png"/> Doctor Appointment Booking System
-
-> 🏥 A full-stack appointment booking platform with authentication and scheduling.
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Key Features:**
-- 🔐 User and doctor authentication &nbsp;&nbsp; 📅 Appointment scheduling with slot management &nbsp;&nbsp; ✅ Status tracking (pending / confirmed / cancelled)
-- 🚫 Duplicate slot prevention &nbsp;&nbsp; 🏖️ Doctor leave management &nbsp;&nbsp; 🔌 REST API with MySQL integration
-
-[![Source Code](https://img.shields.io/badge/⭐%20Source%20Code-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
-
-</td>
-</tr>
-</table>
-
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                           TECH STACK                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -226,8 +138,6 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Currently Learning
 
 <div align="center">
-
-### 🎓 6-Month Training Program · Luminar Technolab
 
 [![Status](https://img.shields.io/badge/Status-Currently%20Pursuing-F97316?style=for-the-badge&labelColor=7C2D12)](https://github.com/AMB-007)&nbsp;
 [![Track](https://img.shields.io/badge/Track-Python%20·%20Data%20Science%20·%20ML%2FAI%20·%20Power%20BI-8B5CF6?style=for-the-badge&labelColor=5B21B6)](https://github.com/AMB-007)
@@ -309,92 +219,6 @@
 
 </div>
 
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           EDUCATION                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🎓 Education
-
-<table>
-<tr>
-<td width="8%" align="center"><img src="https://img.icons8.com/color/48/graduation-cap.png" width="30"/></td>
-<td width="92%">
-
-**Bachelor of Technology — Computer Science & Engineering**
-<br/>Toc H Institute of Science and Technology · **2022 – 2026**
-
-</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/48/school.png" width="28"/></td>
-<td>
-
-**Class 12 — Science**
-<br/>HSS Koothattukulam · **2020 – 2022**
-
-</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/48/book-shelf.png" width="28"/></td>
-<td>
-
-**Class 10 — CBSE**
-<br/>Bappuji English Medium School · **2020**
-
-</td>
-</tr>
-</table>
-
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      TRAINING & ACTIVITIES                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏅 Training & Activities
-
-<table>
-<tr>
-<td width="8%" align="center">💻</td>
-<td>
-
-**Front End Web Development** — 60 Hours Training Program
-<br/>Aesthetix Edu-Tech
-
-</td>
-</tr>
-<tr>
-<td align="center">📱</td>
-<td>
-
-**Flutter Internship Program**
-<br/>Genzee Technologies
-
-</td>
-</tr>
-<tr>
-<td align="center">🏆</td>
-<td>
-
-**Industry Leadership Training Program**
-<br/>SquardSkills / GooseBerry Media
-
-</td>
-</tr>
-<tr>
-<td align="center">🤝</td>
-<td>
-
-**NSS Volunteer**
-<br/>Health camps · Cleanliness drives · Awareness campaigns
-
-</td>
-</tr>
-</table>
 
 <!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -445,30 +269,6 @@
 <!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB ACTIVITY                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Bd8/giphy.gif" width="28"> &nbsp;GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMB-007&theme=radical" alt="Arjun M Babu GitHub profile summary"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMB-007&theme=radical" alt="Arjun M Babu repos per language"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMB-007&theme=radical" alt="Arjun M Babu GitHub stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AMB-007&theme=radical&utcOffset=5.5" alt="Arjun M Babu productive time"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AMB-007&hide_border=true&border_radius=10&background=141321&ring=A855F7&fire=F97316&currStreakLabel=06B6D4&sideLabels=8B5CF6&dates=94A3B8&sideNums=F8FAFC&currStreakNum=10B981" width="60%" alt="Arjun's GitHub Streak"/>
-
-</div>
-
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                       CONTRIBUTION SNAKE                               -->
@@ -507,7 +307,7 @@
 
 <br/><br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=AMB-007&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
+
 
 </div>
 
