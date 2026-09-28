@@ -271,18 +271,14 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       CONTRIBUTION SNAKE                               -->
+<!--                     CONTRIBUTION ACTIVITY                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Activity
+## 📅 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake.svg"/>
-  <img alt="Arjun M Babu GitHub contribution activity snake" src="https://raw.githubusercontent.com/AMB-007/AMB-007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://ghchart.rshah.org/8B5CF6/AMB-007" alt="Arjun M Babu GitHub contribution calendar" width="100%"/>
 
 </div>
 
