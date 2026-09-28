@@ -1,280 +1,122 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--              ✨  ARJUN M BABU · FULL-STACK DEVELOPER  ✨               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ════════════════════  ANIMATED HERO BANNER  ════════════════════ -->
+# Arjun M Babu
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=ARJUN%20M%20BABU&fontSize=55&color=0:8B5CF6,50:06B6D4,100:10B981&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=45&desc=⚡%20Full-Stack%20Developer%20%7C%20Kerala%2C%20India%20⚡&descSize=16&descColor=E2E8F0&descAlignY=68" width="100%" alt="Arjun M Babu – Full-Stack Developer"/>
+**Full-Stack Developer** &middot; Kerala, India
 
-<br/>
-
-<!-- ════════════════════  TYPING ANIMATION  ════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=75&lines=%F0%9F%9A%80+Building+Scalable+Full-Stack+Applications;%F0%9F%94%A5+React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Flask+%C2%B7+MySQL;%F0%9F%A7%A0+Exploring+Data+Science%2C+ML+%26+AI;%F0%9F%92%BC+B.Tech+CSE+2026+%E2%80%94+Open+to+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&height=45&lines=Building+scalable+full-stack+applications.;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Flask+%C2%B7+MySQL.;Exploring+Data+Science%2C+ML+%26+AI.;B.Tech+CSE+2026+%E2%80%94+Open+to+Opportunities.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ════════════════════  SOCIAL BADGES  ════════════════════ -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu2004@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=AMB-007&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AMB-007)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunmbabu2004@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=AMB-007&style=flat-square&color=8B5CF6&label=views)
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-10B981?style=flat-square&labelColor=064E3B)&nbsp;
-![B.Tech CSE](https://img.shields.io/badge/🎓%20B.Tech%20CSE%20·%202026-8B5CF6?style=flat-square&labelColor=5B21B6)&nbsp;
-![Kerala](https://img.shields.io/badge/📍%20Kerala%2C%20India-06B6D4?style=flat-square&labelColor=155E75)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-10B981?style=flat-square)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE%20%C2%B7%202026-8B5CF6?style=flat-square)
+![Kerala](https://img.shields.io/badge/Kerala%2C%20India-64748b?style=flat-square)
 
 </div>
 
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            ABOUT ME                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## About
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+I'm a Computer Science & Engineering student focused on **full-stack development**, with hands-on experience building web applications using React, Node.js, Express.js, Flask, MySQL, and MongoDB.
 
-<table>
-<tr>
-<td valign="top" width="55%">
+I enjoy building practical applications involving authentication, REST APIs, database management, scheduling, CRUD workflows, and responsive interfaces.
 
-🎓 I'm a **Computer Science & Engineering** student focused on **full-stack development**, with hands-on experience building web applications using React, Node.js, Express.js, Flask, MySQL, and MongoDB.
+Currently expanding into **Python Data Science, Machine Learning, AI, and Power BI** through a 6-month training program at Luminar Technolab.
 
-💡 I enjoy building practical applications involving authentication, REST APIs, database management, scheduling, CRUD workflows, and responsive interfaces.
+---
 
-🚀 Currently expanding into **Python Data Science, Machine Learning, Artificial Intelligence, and Power BI** through a 6-month training program at Luminar Technolab.
+## What I Build
 
+| Full-Stack Apps | REST APIs | Database Systems | Data & AI |
+|:-:|:-:|:-:|:-:|
+| React, Node.js, Express.js, Flask & database-driven systems | Backend APIs, CRUD operations, auth & application workflows | MySQL & MongoDB based persistent data systems | Currently learning Data Science, ML, AI & Power BI |
 
+---
 
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/AMB-007/AMB-007/main/assets/terminal.svg" width="100%" alt="Terminal animation showing developer info"/>
-
-</td>
-</tr>
-</table>
-
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          WHAT I BUILD                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;What I Build
+## Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/64/source-code.png" width="48"/><br/>
-<b>⚡ Full-Stack Apps</b><br/><br/>
-<sub>React, Node.js, Express.js, Flask &amp; database-driven systems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48"/><br/>
-<b>🔌 REST APIs</b><br/><br/>
-<sub>Backend APIs, CRUD operations, auth &amp; application workflows</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/64/database.png" width="48"/><br/>
-<b>🗄️ Database Systems</b><br/><br/>
-<sub>MySQL &amp; MongoDB based persistent data systems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="48"/><br/>
-<b>🤖 Data &amp; AI</b><br/><br/>
-<sub>Currently learning Data Science, ML, AI &amp; Power BI</sub>
-</td>
-</tr>
-</table>
+**Languages & Frontend**
 
-</div>
+<br/>
 
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           TECH STACK                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Frontend
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap&perline=6" alt="Languages and frontend technologies"/>
+![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css)&nbsp;
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=flat-square&logo=bootstrap)
 
 <br/><br/>
 
-### ⚙️ Backend & Databases
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb&perline=5" alt="Backend and database technologies"/>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs)&nbsp;
+![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-18181B?style=flat-square&logo=flask)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb)
 
 <br/><br/>
 
-### 🛠️ Tools & Platforms
+**Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Development tools"/>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=flat-square&logo=vscodium)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman)
 
 </div>
 
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       CURRENTLY LEARNING                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## Currently Learning
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Currently Learning
+> **Track** &mdash; Python &middot; Data Science &middot; ML/AI &middot; Power BI &middot; AWS
+
+| Module 1 &mdash; Python & SQL | Module 2 &mdash; EDA & ML | Module 3 &mdash; Deep Learning & AI |
+|:-:|:-:|:-:|
+| `Python Fundamentals` `OOP` `Regex` `Data Structures` `SQL` `CRUD` `Joins` `Subqueries` `Aggregation` | `NumPy` `Pandas` `Data Cleaning` `EDA` `Matplotlib` `Seaborn` `Regression` `Classification` `Clustering` `NLP` | `Neural Networks` `CNN` `YOLO` `RNN` `LSTM` `OpenCV` `OCR` `Transformers` `LLM` `Chatbot Development` |
+
+| Module 4 &mdash; AWS | Module 5 &mdash; Power BI |
+|:-:|:-:|
+| `AWS Intro` `IAM` `EC2` `S3` `AWS CLI` | `Data Visualization` `Power Query` `DAX` `Data Modeling` `Dashboards` `Reports` |
+
+---
+
+## GitHub Achievements
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-Currently%20Pursuing-F97316?style=for-the-badge&labelColor=7C2D12)](https://github.com/AMB-007)&nbsp;
-[![Track](https://img.shields.io/badge/Track-Python%20·%20Data%20Science%20·%20ML%2FAI%20·%20Power%20BI-8B5CF6?style=for-the-badge&labelColor=5B21B6)](https://github.com/AMB-007)
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire"/>&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark"/>&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO"/>&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw"/>
+
+<br/><sub>Pair Extraordinaire &nbsp;&middot;&nbsp; Pull Shark &nbsp;&middot;&nbsp; YOLO &nbsp;&middot;&nbsp; Quickdraw</sub>
+
+<br/>
+
+[![View All Achievements](https://img.shields.io/badge/View%20All%20Achievements-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/AMB-007?tab=achievements)
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🐍 Module 1 — Python & SQL**
-
-`Python Fundamentals` `OOP`
-`Regex` `Data Structures`
-`SQL` `CRUD` `Joins`
-`Subqueries` `Aggregation`
-
-</td>
-<td align="center" width="33%">
-
-**📊 Module 2 — EDA & ML**
-
-`NumPy` `Pandas`
-`Data Cleaning` `EDA`
-`Matplotlib` `Seaborn`
-`Regression` `Classification`
-`Clustering` `NLP`
-
-</td>
-<td align="center" width="33%">
-
-**🧠 Module 3 — Deep Learning & AI**
-
-`Neural Networks` `CNN`
-`YOLO` `RNN` `LSTM`
-`OpenCV` `OCR`
-`Transformers` `LLM`
-`Chatbot Development`
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-**☁️ Module 4 — AWS**
-
-`AWS Intro` `IAM`
-`EC2` `S3`
-`AWS CLI`
-
-</td>
-<td align="center" width="33%">
-
-**📈 Module 5 — Power BI**
-
-`Data Visualization`
-`Power Query` `DAX`
-`Data Modeling`
-`Dashboards` `Reports`
-
-</td>
-<td align="center" width="33%">
-
-**🚀 Learning Path**
-
-`🐍` → `🗄️` → `📊` → `🤖`
-
-⬇️
-
-`🧠` → `☁️` → `📈`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB ACHIEVEMENTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<sub>Official GitHub achievements earned through open-source activity and collaboration.</sub>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire"/>
-<br/>
-<sub><b>Pair Extraordinaire</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
-<br/>
-<sub><b>Pull Shark</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
-<br/>
-<sub><b>YOLO</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
-<br/>
-<sub><b>Quickdraw</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-[![View on GitHub](https://img.shields.io/badge/View%20All%20Achievements-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007?tab=achievements)
-
-</div>
-
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION ACTIVITY                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📅 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -282,53 +124,19 @@
 
 </div>
 
-<!-- ════════════════════  ANIMATED DIVIDER  ════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         LET'S CONNECT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## Connect
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
+I'm open to collaboration, internship opportunities, and exciting new projects.
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)
+[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunmbabu2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AMB-007)
 
-<h3>I'm always open to collaboration, internship opportunities, and exciting new projects!</h3>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmbabu2004@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMB-007)
-
-<br/><br/>
-
-
-
-</div>
-
-<br/>
-
-<!-- ════════════════════  ANIMATED FOOTER  ════════════════════ -->
+---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Random dev quote"/>
-
-<br/><br/>
-
-<sub>
-
-**⚡ Building · Learning · Shipping ⚡**
-
-**Arjun M Babu** · Full-Stack Developer · Kerala, India
-
-[GitHub](https://github.com/AMB-007) · [LinkedIn](https://www.linkedin.com/in/arjun-m-babu-45024224a/) · [Email](mailto:arjunmbabu2004@gmail.com)
-
-</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,50:06B6D4,100:10B981&section=footer" width="100%" alt="footer wave"/>
-
+<sub>Building &middot; Learning &middot; Shipping</sub>
 </div>
+
