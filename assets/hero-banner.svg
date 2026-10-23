@@ -1,70 +1,58 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" preserveAspectRatio="xMidYMid meet">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap');
       
       .mono { font-family: 'JetBrains Mono', 'Courier New', monospace; }
       .sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
       
-      /* Subtle Luminous Animations */
-      @keyframes pulse-glow {
-        0%, 100% { opacity: 0.45; filter: drop-shadow(0 0 4px rgba(139, 92, 246, 0.4)); }
-        50% { opacity: 0.95; filter: drop-shadow(0 0 12px rgba(34, 211, 238, 0.8)); }
-      }
-      
+      /* Subtle Cinematic Animations */
       @keyframes syn-flow-1 {
-        0% { stroke-dashoffset: 40; }
+        0% { stroke-dashoffset: 48; }
         100% { stroke-dashoffset: 0; }
       }
       
       @keyframes syn-flow-2 {
         0% { stroke-dashoffset: 0; }
-        100% { stroke-dashoffset: 40; }
+        100% { stroke-dashoffset: 48; }
       }
       
       @keyframes node-pulse {
-        0%, 100% { transform: scale(1); opacity: 0.8; }
-        50% { transform: scale(1.35); opacity: 1; }
+        0%, 100% { transform: scale(1); opacity: 0.85; }
+        50% { transform: scale(1.3); opacity: 1; }
       }
       
       @keyframes particle-drift {
         0% { transform: translate(0, 0); opacity: 0.2; }
-        50% { transform: translate(15px, -12px); opacity: 0.7; }
+        50% { transform: translate(18px, -14px); opacity: 0.75; }
         100% { transform: translate(0, 0); opacity: 0.2; }
       }
       
-      @keyframes telemetry-blink {
+      @keyframes blink {
         0%, 100% { opacity: 1; }
         50% { opacity: 0.3; }
       }
 
-      @keyframes loss-pulse {
-        0%, 100% { opacity: 0.7; }
-        50% { opacity: 1; filter: drop-shadow(0 0 6px rgba(34, 211, 238, 0.7)); }
-      }
-
-      .node-core { transform-origin: center; animation: node-pulse 3.2s ease-in-out infinite; }
+      .node-core { transform-origin: center; animation: node-pulse 3.5s ease-in-out infinite; }
       .node-d1 { animation-delay: 0s; }
-      .node-d2 { animation-delay: 0.8s; }
-      .node-d3 { animation-delay: 1.6s; }
-      .node-d4 { animation-delay: 2.4s; }
+      .node-d2 { animation-delay: 0.9s; }
+      .node-d3 { animation-delay: 1.8s; }
+      .node-d4 { animation-delay: 2.7s; }
       
-      .edge-active-1 { stroke-dasharray: 6 10; animation: syn-flow-1 2.5s linear infinite; }
-      .edge-active-2 { stroke-dasharray: 8 12; animation: syn-flow-2 3.2s linear infinite; }
+      .edge-active-1 { stroke-dasharray: 6 12; animation: syn-flow-1 2.8s linear infinite; }
+      .edge-active-2 { stroke-dasharray: 8 14; animation: syn-flow-2 3.4s linear infinite; }
       
-      .particle { animation: particle-drift 6s ease-in-out infinite; }
+      .particle { animation: particle-drift 7s ease-in-out infinite; }
       .p1 { animation-delay: 0s; }
-      .p2 { animation-delay: 1.5s; }
-      .p3 { animation-delay: 3s; }
-      .p4 { animation-delay: 4.5s; }
+      .p2 { animation-delay: 2s; }
+      .p3 { animation-delay: 4s; }
 
-      .blink { animation: telemetry-blink 1.8s ease-in-out infinite; }
-      .loss-curve { animation: loss-pulse 4s ease-in-out infinite; }
+      .blink { animation: blink 2s ease-in-out infinite; }
     </style>
 
     <!-- Linear Gradients -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="0%" stop-color="#060913"/>
       <stop offset="50%" stop-color="#0a0f1d"/>
       <stop offset="100%" stop-color="#050811"/>
     </linearGradient>
@@ -75,33 +63,22 @@
       <stop offset="100%" stop-color="#22d3ee"/>
     </linearGradient>
 
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#cbd5e1"/>
-    </linearGradient>
-
-    <linearGradient id="loss-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8b5cf6"/>
-      <stop offset="50%" stop-color="#06b6d4"/>
-      <stop offset="100%" stop-color="#22c55e"/>
-    </linearGradient>
-
     <!-- Radial Glow Gradients -->
-    <radialGradient id="violet-glow" cx="20%" cy="50%" r="45%">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#070b14" stop-opacity="0"/>
+    <radialGradient id="violet-glow" cx="22%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#060913" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="cyan-aura" cx="85%" cy="45%" r="50%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.14"/>
-      <stop offset="100%" stop-color="#070b14" stop-opacity="0"/>
+    <radialGradient id="cyan-aura" cx="82%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#060913" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Tech Grid Pattern -->
+    <!-- Technical Grid Pattern -->
     <pattern id="grid-pattern" width="40" height="40" patternUnits="userSpaceOnUse">
-      <line x1="0" y1="0" x2="40" y2="0" stroke="#162036" stroke-width="0.6" stroke-opacity="0.6"/>
-      <line x1="0" y1="0" x2="0" y2="40" stroke="#162036" stroke-width="0.6" stroke-opacity="0.6"/>
-      <circle cx="40" cy="40" r="0.8" fill="#334155" opacity="0.6"/>
+      <line x1="0" y1="0" x2="40" y2="0" stroke="#141d33" stroke-width="0.6" stroke-opacity="0.7"/>
+      <line x1="0" y1="0" x2="0" y2="40" stroke="#141d33" stroke-width="0.6" stroke-opacity="0.7"/>
+      <circle cx="40" cy="40" r="0.7" fill="#1e293b" opacity="0.6"/>
     </pattern>
   </defs>
 
@@ -112,227 +89,188 @@
   <rect width="1200" height="400" fill="url(#grid-pattern)"/>
 
   <!-- Top Frame Border & Technical Coordinate Bar -->
-  <line x1="40" y1="30" x2="1160" y2="30" stroke="#1e293b" stroke-width="1" opacity="0.6"/>
+  <line x1="45" y1="32" x2="1155" y2="32" stroke="#1e293b" stroke-width="1" opacity="0.5"/>
   
-  <!-- Left Header Telemetry -->
-  <g transform="translate(45, 22)">
-    <circle cx="0" cy="0" r="3" fill="#22c55e" class="blink"/>
-    <text x="10" y="3" class="mono" font-size="9" fill="#64748b" letter-spacing="1">SYS_ID // AMB-007 • SPECIALIZATION: DATA &amp; AI</text>
+  <!-- Left Header Status -->
+  <g transform="translate(50, 24)">
+    <circle cx="0" cy="0" r="3" fill="#22d3ee" class="blink"/>
+    <text x="12" y="3.5" class="mono" font-size="9.5" fill="#64748b" letter-spacing="1.5">DATA SCIENCE &amp; ARTIFICIAL INTELLIGENCE</text>
   </g>
   
-  <!-- Right Header Telemetry -->
-  <g transform="translate(930, 22)">
-    <text x="0" y="3" class="mono" font-size="9" fill="#64748b" letter-spacing="1">TENSOR_FLOW: ACTIVE • LATENT_DIM: 512</text>
+  <!-- Right Header Status -->
+  <g transform="translate(980, 24)">
+    <text x="0" y="3.5" class="mono" font-size="9.5" fill="#64748b" letter-spacing="1.5">AMB-007 // ACTIVE</text>
   </g>
 
-  <!-- Corner Tech Brackets -->
-  <path d="M 40 50 L 40 40 L 50 40" fill="none" stroke="#8b5cf6" stroke-width="1.5" opacity="0.7"/>
-  <path d="M 1160 50 L 1160 40 L 1150 40" fill="none" stroke="#22d3ee" stroke-width="1.5" opacity="0.7"/>
-  <path d="M 40 350 L 40 360 L 50 360" fill="none" stroke="#8b5cf6" stroke-width="1.5" opacity="0.7"/>
-  <path d="M 1160 350 L 1160 360 L 1150 360" fill="none" stroke="#22d3ee" stroke-width="1.5" opacity="0.7"/>
+  <!-- Sleek Corner Tech Brackets -->
+  <path d="M 45 52 L 45 42 L 55 42" fill="none" stroke="#8b5cf6" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 1155 52 L 1155 42 L 1145 42" fill="none" stroke="#22d3ee" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 45 348 L 45 358 L 55 358" fill="none" stroke="#8b5cf6" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 1155 348 L 1155 358 L 1145 358" fill="none" stroke="#22d3ee" stroke-width="1.5" opacity="0.8"/>
 
-  <!-- Background Data Flow Particles -->
-  <g class="particle p1"><circle cx="140" cy="90" r="2" fill="#8b5cf6"/></g>
-  <g class="particle p2"><circle cx="680" cy="70" r="1.8" fill="#22d3ee"/></g>
-  <g class="particle p3"><circle cx="420" cy="340" r="2" fill="#a855f7"/></g>
-  <g class="particle p4"><circle cx="1120" cy="110" r="1.5" fill="#38bdf8"/></g>
-  <g class="particle p2"><circle cx="750" cy="330" r="2" fill="#06b6d4"/></g>
+  <!-- Subtle Drifting Background Particles -->
+  <g class="particle p1"><circle cx="120" cy="110" r="2" fill="#8b5cf6"/></g>
+  <g class="particle p2"><circle cx="650" cy="80" r="1.8" fill="#22d3ee"/></g>
+  <g class="particle p3"><circle cx="480" cy="330" r="2" fill="#a855f7"/></g>
+  <g class="particle p2"><circle cx="1110" cy="120" r="1.6" fill="#38bdf8"/></g>
 
   <!-- ================= LEFT COLUMN: HERO IDENTITY ================= -->
-  <g transform="translate(60, 85)">
-    <!-- Domain Tag Pill -->
-    <rect x="0" y="0" width="285" height="24" rx="12" fill="#121829" stroke="#2d3748" stroke-width="1"/>
-    <circle cx="12" cy="12" r="3.5" fill="#22d3ee" class="blink"/>
-    <text x="24" y="15.5" class="mono" font-size="10.5" font-weight="600" fill="#a5b4fc" letter-spacing="1">COMPUTER SCIENCE &amp; ANALYTICS</text>
-
-    <!-- Main Name -->
-    <text x="0" y="72" class="sans" font-size="48" font-weight="800" fill="url(#text-grad)" letter-spacing="-0.5">ARJUN M BABU</text>
+  <!-- Clean, un-crowded, dominant name and role -->
+  <g transform="translate(70, 140)">
+    <!-- Main Name (Dominant visual anchor) -->
+    <text x="0" y="40" class="sans" font-size="52" font-weight="900" fill="#ffffff" letter-spacing="-0.5">ARJUN M BABU</text>
 
     <!-- Professional Role Title -->
-    <text x="0" y="110" class="mono" font-size="21" font-weight="600" fill="#38bdf8" letter-spacing="2">COMPUTER SCIENCE ENGINEER</text>
+    <text x="0" y="82" class="mono" font-size="20" font-weight="600" fill="#38bdf8" letter-spacing="2.5">COMPUTER SCIENCE ENGINEER</text>
 
-    <!-- Luminous Divider Accent Line -->
-    <line x1="0" y1="128" x2="440" y2="128" stroke="url(#cyan-violet)" stroke-width="2.5" stroke-linecap="round"/>
-    <line x1="448" y1="128" x2="480" y2="128" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.8"/>
+    <!-- Refined Accent Line -->
+    <line x1="0" y1="102" x2="430" y2="102" stroke="url(#cyan-violet)" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="438" y1="102" x2="470" y2="102" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.7"/>
 
     <!-- Professional Descriptor -->
-    <text x="0" y="160" class="mono" font-size="15.5" font-weight="500" fill="#cbd5e1" letter-spacing="0.5">
+    <text x="0" y="136" class="mono" font-size="15" font-weight="500" fill="#94a3b8" letter-spacing="0.5">
       Data Science <tspan fill="#8b5cf6">•</tspan> Analytics <tspan fill="#22d3ee">•</tspan> Machine Learning <tspan fill="#8b5cf6">•</tspan> AI
     </text>
+  </g>
 
-    <!-- Telemetry Status Pills -->
-    <g transform="translate(0, 190)">
-      <!-- Status Pill 1 -->
-      <rect x="0" y="0" width="170" height="24" rx="5" fill="#0d1527" stroke="#1e293b" stroke-width="1"/>
-      <circle cx="12" cy="12" r="3" fill="#22c55e"/>
-      <text x="22" y="15.5" class="mono" font-size="9.5" fill="#94a3b8">STATUS: ACTIVE DEV</text>
+  <!-- ================= RIGHT COLUMN: BALANCED NEURAL NETWORK ================= -->
+  <g transform="translate(640, 55)">
+    <!-- Visual Boundary Frame -->
+    <rect x="0" y="0" width="490" height="290" rx="10" fill="#090e1c" fill-opacity="0.5" stroke="#1e293b" stroke-width="1"/>
+    <text x="24" y="28" class="mono" font-size="9.5" font-weight="600" fill="#64748b" letter-spacing="1.5">NEURAL ARCHITECTURE &amp; DATA PIPELINES</text>
+    <circle cx="465" cy="24" r="3" fill="#22d3ee" class="blink"/>
 
-      <!-- Status Pill 2 -->
-      <rect x="180" y="0" width="180" height="24" rx="5" fill="#0d1527" stroke="#1e293b" stroke-width="1"/>
-      <circle cx="192" cy="12" r="3" fill="#8b5cf6"/>
-      <text x="202" y="15.5" class="mono" font-size="9.5" fill="#94a3b8">PIPELINE: ETL // ML</text>
-      
-      <!-- Status Pill 3 -->
-      <rect x="370" y="0" width="140" height="24" rx="5" fill="#0d1527" stroke="#1e293b" stroke-width="1"/>
-      <circle cx="382" cy="12" r="3" fill="#22d3ee"/>
-      <text x="392" y="15.5" class="mono" font-size="9.5" fill="#94a3b8">REPO: AMB-007</text>
+    <!-- Synaptic Network Base Lines (faint) -->
+    <g stroke="#1e293b" stroke-width="1" opacity="0.5">
+      <!-- Input to Hidden 1 -->
+      <line x1="60" y1="70" x2="170" y2="60"/>
+      <line x1="60" y1="70" x2="170" y2="110"/>
+      <line x1="60" y1="70" x2="170" y2="160"/>
+      <line x1="60" y1="130" x2="170" y2="60"/>
+      <line x1="60" y1="130" x2="170" y2="110"/>
+      <line x1="60" y1="130" x2="170" y2="160"/>
+      <line x1="60" y1="130" x2="170" y2="210"/>
+      <line x1="60" y1="190" x2="170" y2="110"/>
+      <line x1="60" y1="190" x2="170" y2="160"/>
+      <line x1="60" y1="190" x2="170" y2="210"/>
+      <line x1="60" y1="250" x2="170" y2="160"/>
+      <line x1="60" y1="250" x2="170" y2="210"/>
+
+      <!-- Hidden 1 to Hidden 2 -->
+      <line x1="170" y1="60" x2="280" y2="80"/>
+      <line x1="170" y1="60" x2="280" y2="135"/>
+      <line x1="170" y1="110" x2="280" y2="80"/>
+      <line x1="170" y1="110" x2="280" y2="135"/>
+      <line x1="170" y1="110" x2="280" y2="190"/>
+      <line x1="170" y1="160" x2="280" y2="135"/>
+      <line x1="170" y1="160" x2="280" y2="190"/>
+      <line x1="170" y1="160" x2="280" y2="245"/>
+      <line x1="170" y1="210" x2="280" y2="190"/>
+      <line x1="170" y1="210" x2="280" y2="245"/>
+
+      <!-- Hidden 2 to Latent -->
+      <line x1="280" y1="80" x2="380" y2="110"/>
+      <line x1="280" y1="135" x2="380" y2="110"/>
+      <line x1="280" y1="135" x2="380" y2="195"/>
+      <line x1="280" y1="190" x2="380" y2="110"/>
+      <line x1="280" y1="190" x2="380" y2="195"/>
+      <line x1="280" y1="245" x2="380" y2="195"/>
+
+      <!-- Latent to Output -->
+      <line x1="380" y1="110" x2="445" y2="152"/>
+      <line x1="380" y1="195" x2="445" y2="152"/>
+    </g>
+
+    <!-- Active Animated Synaptic Pulses -->
+    <g stroke-width="1.5" stroke-linecap="round">
+      <line x1="60" y1="70" x2="170" y2="110" stroke="#8b5cf6" class="edge-active-1"/>
+      <line x1="60" y1="130" x2="170" y2="60" stroke="#22d3ee" class="edge-active-2"/>
+      <line x1="60" y1="190" x2="170" y2="160" stroke="#8b5cf6" class="edge-active-1"/>
+      <line x1="60" y1="250" x2="170" y2="210" stroke="#22d3ee" class="edge-active-2"/>
+
+      <line x1="170" y1="60" x2="280" y2="135" stroke="#22d3ee" class="edge-active-1"/>
+      <line x1="170" y1="110" x2="280" y2="80" stroke="#8b5cf6" class="edge-active-2"/>
+      <line x1="170" y1="160" x2="280" y2="190" stroke="#38bdf8" class="edge-active-1"/>
+      <line x1="170" y1="210" x2="280" y2="245" stroke="#8b5cf6" class="edge-active-2"/>
+
+      <line x1="280" y1="80" x2="380" y2="110" stroke="#8b5cf6" class="edge-active-1"/>
+      <line x1="280" y1="135" x2="380" y2="195" stroke="#22d3ee" class="edge-active-2"/>
+      <line x1="280" y1="190" x2="380" y2="110" stroke="#38bdf8" class="edge-active-1"/>
+
+      <line x1="380" y1="110" x2="445" y2="152" stroke="url(#cyan-violet)" stroke-width="2.2" class="edge-active-1"/>
+      <line x1="380" y1="195" x2="445" y2="152" stroke="url(#cyan-violet)" stroke-width="2.2" class="edge-active-2"/>
+    </g>
+
+    <!-- Layer 1: Input Features -->
+    <g>
+      <circle cx="60" cy="70" r="5.5" fill="#13112c" stroke="#8b5cf6" stroke-width="1.6"/>
+      <circle cx="60" cy="70" r="2.5" fill="#c4b5fd" class="node-core node-d1"/>
+
+      <circle cx="60" cy="130" r="5.5" fill="#13112c" stroke="#8b5cf6" stroke-width="1.6"/>
+      <circle cx="60" cy="130" r="2.5" fill="#c4b5fd" class="node-core node-d2"/>
+
+      <circle cx="60" cy="190" r="5.5" fill="#13112c" stroke="#8b5cf6" stroke-width="1.6"/>
+      <circle cx="60" cy="190" r="2.5" fill="#c4b5fd" class="node-core node-d3"/>
+
+      <circle cx="60" cy="250" r="5.5" fill="#13112c" stroke="#8b5cf6" stroke-width="1.6"/>
+      <circle cx="60" cy="250" r="2.5" fill="#c4b5fd" class="node-core node-d4"/>
+
+      <text x="60" y="274" text-anchor="middle" class="mono" font-size="8" fill="#64748b">INPUT</text>
+    </g>
+
+    <!-- Layer 2: Hidden Representation -->
+    <g>
+      <circle cx="170" cy="60" r="5" fill="#082238" stroke="#0ea5e9" stroke-width="1.4"/>
+      <circle cx="170" cy="60" r="2.2" fill="#7dd3fc" class="node-core node-d2"/>
+
+      <circle cx="170" cy="110" r="5" fill="#082238" stroke="#0ea5e9" stroke-width="1.4"/>
+      <circle cx="170" cy="110" r="2.2" fill="#7dd3fc" class="node-core node-d3"/>
+
+      <circle cx="170" cy="160" r="5" fill="#082238" stroke="#0ea5e9" stroke-width="1.4"/>
+      <circle cx="170" cy="160" r="2.2" fill="#7dd3fc" class="node-core node-d4"/>
+
+      <circle cx="170" cy="210" r="5" fill="#082238" stroke="#0ea5e9" stroke-width="1.4"/>
+      <circle cx="170" cy="210" r="2.2" fill="#7dd3fc" class="node-core node-d1"/>
+
+      <text x="170" y="274" text-anchor="middle" class="mono" font-size="8" fill="#64748b">HIDDEN_1</text>
+    </g>
+
+    <!-- Layer 3: Feature Transforms -->
+    <g>
+      <circle cx="280" cy="80" r="5" fill="#1e1338" stroke="#a855f7" stroke-width="1.4"/>
+      <circle cx="280" cy="80" r="2.2" fill="#e9d5ff" class="node-core node-d3"/>
+
+      <circle cx="280" cy="135" r="5" fill="#1e1338" stroke="#a855f7" stroke-width="1.4"/>
+      <circle cx="280" cy="135" r="2.2" fill="#e9d5ff" class="node-core node-d4"/>
+
+      <circle cx="280" cy="190" r="5" fill="#1e1338" stroke="#a855f7" stroke-width="1.4"/>
+      <circle cx="280" cy="190" r="2.2" fill="#e9d5ff" class="node-core node-d1"/>
+
+      <circle cx="280" cy="245" r="5" fill="#1e1338" stroke="#a855f7" stroke-width="1.4"/>
+      <circle cx="280" cy="245" r="2.2" fill="#e9d5ff" class="node-core node-d2"/>
+
+      <text x="280" y="274" text-anchor="middle" class="mono" font-size="8" fill="#64748b">HIDDEN_2</text>
+    </g>
+
+    <!-- Layer 4: Latent Embedding -->
+    <g>
+      <circle cx="380" cy="110" r="5.5" fill="#082238" stroke="#22d3ee" stroke-width="1.6"/>
+      <circle cx="380" cy="110" r="2.5" fill="#a5f3fc" class="node-core node-d4"/>
+
+      <circle cx="380" cy="195" r="5.5" fill="#082238" stroke="#22d3ee" stroke-width="1.6"/>
+      <circle cx="380" cy="195" r="2.5" fill="#a5f3fc" class="node-core node-d1"/>
+
+      <text x="380" y="274" text-anchor="middle" class="mono" font-size="8" fill="#64748b">LATENT</text>
+    </g>
+
+    <!-- Layer 5: Target Output -->
+    <g>
+      <circle cx="445" cy="152" r="8.5" fill="#13112c" stroke="url(#cyan-violet)" stroke-width="2"/>
+      <circle cx="445" cy="152" r="3.8" fill="#22d3ee" class="node-core node-d2"/>
+      <text x="445" y="274" text-anchor="middle" class="mono" font-size="8" font-weight="600" fill="#22d3ee">OUTPUT</text>
     </g>
   </g>
 
-  <!-- ================= RIGHT COLUMN: NEURAL NETWORK & ANALYTICS VISUAL ================= -->
-  <!-- Visual Frame Backdrop -->
-  <rect x="650" y="50" width="500" height="310" rx="10" fill="#0a0f1d" fill-opacity="0.6" stroke="#1e293b" stroke-width="1"/>
-  <text x="668" y="74" class="mono" font-size="9.5" font-weight="600" fill="#64748b" letter-spacing="1.5">NEURAL TOPOLOGY // DATA FLOW PIPELINE</text>
-  <circle cx="1130" cy="70" r="3" fill="#22d3ee" class="blink"/>
-
-  <!-- Synaptic Edges Layer (Static faint background edges) -->
-  <g stroke="#1e293b" stroke-width="1" opacity="0.55">
-    <!-- Layer 1 to Layer 2 -->
-    <line x1="710" y1="100" x2="810" y2="90"/>
-    <line x1="710" y1="100" x2="810" y2="130"/>
-    <line x1="710" y1="100" x2="810" y2="170"/>
-    <line x1="710" y1="150" x2="810" y2="90"/>
-    <line x1="710" y1="150" x2="810" y2="130"/>
-    <line x1="710" y1="150" x2="810" y2="170"/>
-    <line x1="710" y1="150" x2="810" y2="210"/>
-    <line x1="710" y1="200" x2="810" y2="130"/>
-    <line x1="710" y1="200" x2="810" y2="170"/>
-    <line x1="710" y1="200" x2="810" y2="210"/>
-    <line x1="710" y1="250" x2="810" y2="170"/>
-    <line x1="710" y1="250" x2="810" y2="210"/>
-
-    <!-- Layer 2 to Layer 3 -->
-    <line x1="810" y1="90" x2="910" y2="110"/>
-    <line x1="810" y1="90" x2="910" y2="150"/>
-    <line x1="810" y1="130" x2="910" y2="110"/>
-    <line x1="810" y1="130" x2="910" y2="150"/>
-    <line x1="810" y1="130" x2="910" y2="190"/>
-    <line x1="810" y1="170" x2="910" y2="150"/>
-    <line x1="810" y1="170" x2="910" y2="190"/>
-    <line x1="810" y1="170" x2="910" y2="230"/>
-    <line x1="810" y1="210" x2="910" y2="190"/>
-    <line x1="810" y1="210" x2="910" y2="230"/>
-
-    <!-- Layer 3 to Layer 4 -->
-    <line x1="910" y1="110" x2="1010" y2="140"/>
-    <line x1="910" y1="150" x2="1010" y2="140"/>
-    <line x1="910" y1="150" x2="1010" y2="200"/>
-    <line x1="910" y1="190" x2="1010" y2="140"/>
-    <line x1="910" y1="190" x2="1010" y2="200"/>
-    <line x1="910" y1="230" x2="1010" y2="200"/>
-
-    <!-- Layer 4 to Output -->
-    <line x1="1010" y1="140" x2="1100" y2="170"/>
-    <line x1="1010" y1="200" x2="1100" y2="170"/>
-  </g>
-
-  <!-- Animated Synaptic Data Streams (Active pulse paths) -->
-  <g stroke-width="1.4" stroke-linecap="round">
-    <line x1="710" y1="100" x2="810" y2="130" stroke="#8b5cf6" class="edge-active-1"/>
-    <line x1="710" y1="150" x2="810" y2="90" stroke="#22d3ee" class="edge-active-2"/>
-    <line x1="710" y1="200" x2="810" y2="170" stroke="#8b5cf6" class="edge-active-1"/>
-    <line x1="710" y1="250" x2="810" y2="210" stroke="#22d3ee" class="edge-active-2"/>
-
-    <line x1="810" y1="90" x2="910" y2="150" stroke="#22d3ee" class="edge-active-1"/>
-    <line x1="810" y1="130" x2="910" y2="110" stroke="#8b5cf6" class="edge-active-2"/>
-    <line x1="810" y1="170" x2="910" y2="190" stroke="#38bdf8" class="edge-active-1"/>
-    <line x1="810" y1="210" x2="910" y2="230" stroke="#8b5cf6" class="edge-active-2"/>
-
-    <line x1="910" y1="110" x2="1010" y2="140" stroke="#8b5cf6" class="edge-active-1"/>
-    <line x1="910" y1="150" x2="1010" y2="200" stroke="#22d3ee" class="edge-active-2"/>
-    <line x1="910" y1="190" x2="1010" y2="140" stroke="#38bdf8" class="edge-active-1"/>
-
-    <line x1="1010" y1="140" x2="1100" y2="170" stroke="url(#cyan-violet)" stroke-width="2" class="edge-active-1"/>
-    <line x1="1010" y1="200" x2="1100" y2="170" stroke="url(#cyan-violet)" stroke-width="2" class="edge-active-2"/>
-  </g>
-
-  <!-- Neural Nodes (Circles with pulsating rings) -->
-  <!-- Layer 1: Input Features -->
-  <g>
-    <circle cx="710" cy="100" r="6" fill="#1e1b4b" stroke="#8b5cf6" stroke-width="1.8"/>
-    <circle cx="710" cy="100" r="2.5" fill="#c4b5fd" class="node-core node-d1"/>
-    
-    <circle cx="710" cy="150" r="6" fill="#1e1b4b" stroke="#8b5cf6" stroke-width="1.8"/>
-    <circle cx="710" cy="150" r="2.5" fill="#c4b5fd" class="node-core node-d2"/>
-    
-    <circle cx="710" cy="200" r="6" fill="#1e1b4b" stroke="#8b5cf6" stroke-width="1.8"/>
-    <circle cx="710" cy="200" r="2.5" fill="#c4b5fd" class="node-core node-d3"/>
-    
-    <circle cx="710" cy="250" r="6" fill="#1e1b4b" stroke="#8b5cf6" stroke-width="1.8"/>
-    <circle cx="710" cy="250" r="2.5" fill="#c4b5fd" class="node-core node-d4"/>
-
-    <text x="710" y="272" text-anchor="middle" class="mono" font-size="8" fill="#64748b">INPUT</text>
-  </g>
-
-  <!-- Layer 2: Hidden Dense Layer 1 -->
-  <g>
-    <circle cx="810" cy="90" r="5.5" fill="#082f49" stroke="#0ea5e9" stroke-width="1.5"/>
-    <circle cx="810" cy="90" r="2.5" fill="#7dd3fc" class="node-core node-d2"/>
-
-    <circle cx="810" cy="130" r="5.5" fill="#082f49" stroke="#0ea5e9" stroke-width="1.5"/>
-    <circle cx="810" cy="130" r="2.5" fill="#7dd3fc" class="node-core node-d3"/>
-
-    <circle cx="810" cy="170" r="5.5" fill="#082f49" stroke="#0ea5e9" stroke-width="1.5"/>
-    <circle cx="810" cy="170" r="2.5" fill="#7dd3fc" class="node-core node-d4"/>
-
-    <circle cx="810" cy="210" r="5.5" fill="#082f49" stroke="#0ea5e9" stroke-width="1.5"/>
-    <circle cx="810" cy="210" r="2.5" fill="#7dd3fc" class="node-core node-d1"/>
-
-    <text x="810" y="272" text-anchor="middle" class="mono" font-size="8" fill="#64748b">DENSE_1</text>
-  </g>
-
-  <!-- Layer 3: Hidden Dense Layer 2 -->
-  <g>
-    <circle cx="910" cy="110" r="5.5" fill="#1e1b4b" stroke="#a855f7" stroke-width="1.5"/>
-    <circle cx="910" cy="110" r="2.5" fill="#e9d5ff" class="node-core node-d3"/>
-
-    <circle cx="910" cy="150" r="5.5" fill="#1e1b4b" stroke="#a855f7" stroke-width="1.5"/>
-    <circle cx="910" cy="150" r="2.5" fill="#e9d5ff" class="node-core node-d4"/>
-
-    <circle cx="910" cy="190" r="5.5" fill="#1e1b4b" stroke="#a855f7" stroke-width="1.5"/>
-    <circle cx="910" cy="190" r="2.5" fill="#e9d5ff" class="node-core node-d1"/>
-
-    <circle cx="910" cy="230" r="5.5" fill="#1e1b4b" stroke="#a855f7" stroke-width="1.5"/>
-    <circle cx="910" cy="230" r="2.5" fill="#e9d5ff" class="node-core node-d2"/>
-
-    <text x="910" y="272" text-anchor="middle" class="mono" font-size="8" fill="#64748b">DENSE_2</text>
-  </g>
-
-  <!-- Layer 4: Latent Projection -->
-  <g>
-    <circle cx="1010" cy="140" r="6" fill="#082f49" stroke="#22d3ee" stroke-width="1.8"/>
-    <circle cx="1010" cy="140" r="2.8" fill="#a5f3fc" class="node-core node-d4"/>
-
-    <circle cx="1010" cy="200" r="6" fill="#082f49" stroke="#22d3ee" stroke-width="1.8"/>
-    <circle cx="1010" cy="200" r="2.8" fill="#a5f3fc" class="node-core node-d1"/>
-
-    <text x="1010" y="272" text-anchor="middle" class="mono" font-size="8" fill="#64748b">LATENT</text>
-  </g>
-
-  <!-- Output Prediction Node -->
-  <g>
-    <circle cx="1100" cy="170" r="9" fill="#13112c" stroke="url(#cyan-violet)" stroke-width="2.2"/>
-    <circle cx="1100" cy="170" r="4" fill="#22d3ee" class="node-core node-d2"/>
-    <text x="1100" y="272" text-anchor="middle" class="mono" font-size="8" font-weight="600" fill="#22d3ee">TARGET</text>
-  </g>
-
-  <!-- Mini Analytical Graph Panel (Convergence / Loss Curve) -->
-  <g transform="translate(670, 290)">
-    <rect x="0" y="0" width="460" height="58" rx="6" fill="#070d18" stroke="#1e293b" stroke-width="1"/>
-    
-    <!-- Coordinate Axis -->
-    <line x1="25" y1="10" x2="25" y2="45" stroke="#334155" stroke-width="1"/>
-    <line x1="25" y1="45" x2="260" y2="45" stroke="#334155" stroke-width="1"/>
-    
-    <!-- Analytical Loss Curve Path -->
-    <path d="M 30 15 Q 70 38 120 41 T 200 43 T 255 44" fill="none" stroke="url(#loss-grad)" stroke-width="2" stroke-linecap="round" class="loss-curve"/>
-
-    <!-- Target Data Callout Box -->
-    <text x="280" y="22" class="mono" font-size="9" font-weight="600" fill="#22c55e">● LOSS: 0.0124 (CONVERGED)</text>
-    <text x="280" y="35" class="mono" font-size="9" font-weight="600" fill="#38bdf8">◈ EVAL ACCURACY: 98.6%</text>
-    <text x="280" y="47" class="mono" font-size="8" fill="#64748b">EPOCH: 150/150 // OPTIM: ADAM</text>
-  </g>
-
   <!-- Bottom Accent Line -->
-  <line x1="40" y1="380" x2="1160" y2="380" stroke="url(#cyan-violet)" stroke-width="1.5" opacity="0.5"/>
+  <line x1="45" y1="375" x2="1155" y2="375" stroke="url(#cyan-violet)" stroke-width="1.5" opacity="0.4"/>
 </svg>

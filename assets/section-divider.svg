@@ -1,44 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="100%" height="24" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 14" width="100%" height="14" preserveAspectRatio="none">
   <defs>
     <style>
-      @keyframes travel-glow {
-        0% { transform: translateX(-300px); opacity: 0; }
-        20% { opacity: 0.9; }
-        80% { opacity: 0.9; }
+      @keyframes pulse-travel {
+        0% { transform: translateX(-200px); opacity: 0; }
+        25% { opacity: 0.7; }
+        75% { opacity: 0.7; }
         100% { transform: translateX(1200px); opacity: 0; }
       }
-      @keyframes center-pulse {
-        0%, 100% { transform: scale(1); opacity: 0.6; }
-        50% { transform: scale(1.4); opacity: 1; filter: drop-shadow(0 0 6px #22d3ee); }
-      }
-      .pulse-stream { animation: travel-glow 5s ease-in-out infinite; }
-      .diamond { transform-origin: center; animation: center-pulse 3s ease-in-out infinite; }
+      .stream { animation: pulse-travel 6s ease-in-out infinite; }
     </style>
-    <linearGradient id="div-base" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="div-track" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#1e293b" stop-opacity="0"/>
-      <stop offset="25%" stop-color="#1e293b" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#334155" stop-opacity="1"/>
-      <stop offset="75%" stop-color="#1e293b" stop-opacity="0.8"/>
+      <stop offset="30%" stop-color="#1e293b" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#334155" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#1e293b" stop-opacity="0.6"/>
       <stop offset="100%" stop-color="#1e293b" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="div-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="div-pulse" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#22d3ee" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <!-- Base static track -->
-  <line x1="100" y1="12" x2="1100" y2="12" stroke="url(#div-base)" stroke-width="1"/>
+  <!-- Slim base line -->
+  <line x1="80" y1="7" x2="1120" y2="7" stroke="url(#div-track)" stroke-width="1"/>
 
-  <!-- Animated data stream pulse -->
-  <g class="pulse-stream">
-    <line x1="0" y1="12" x2="250" y2="12" stroke="url(#div-glow)" stroke-width="2" stroke-linecap="round"/>
-  </g>
-
-  <!-- Center tech nexus diamond -->
-  <g transform="translate(600, 12)">
-    <circle cx="0" cy="0" r="8" fill="#070b14" stroke="#1e293b" stroke-width="1"/>
-    <path d="M 0 -3.5 L 3.5 0 L 0 3.5 L -3.5 0 Z" fill="#22d3ee" class="diamond"/>
+  <!-- Subtle moving pulse stream -->
+  <g class="stream">
+    <line x1="0" y1="7" x2="180" y2="7" stroke="url(#div-pulse)" stroke-width="1.5" stroke-linecap="round"/>
   </g>
 </svg>
