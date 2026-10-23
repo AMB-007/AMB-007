@@ -10,27 +10,21 @@
 
 <br/>
 
-<!-- Contact Links -->
+<!-- Social Links -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AMB-007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunmbabu2004@gmail.com)
 
+<p>I'm a Computer Science Engineer focused on Data Science, Analytics, and Machine Learning. I work with Python, SQL, and data-driven applications to explore datasets, uncover insights, and build practical solutions.</p>
+
 </div>
-
----
-
-## 👨‍💻 About
-
-I'm a Computer Science Engineer student at B.Tech CSE 2026, currently expanding into **Python Data Science, Machine Learning, AI, and Power BI** through a training program at Luminar Technolab.
-
-My focus is extracting insights from data and building practical machine learning applications using **Python, SQL, and modern data tools**. I enjoy working with exploratory data analysis, statistical analysis, data visualization, and developing data-driven applications.
 
 ---
 
 ## 🛠️ Focused Technical Skills
 
 <details open>
-<summary><strong>Programming & Data</strong></summary>
+<summary><strong>Programming &amp; Data</strong></summary>
 
 | Python | SQL | Pandas | NumPy |
 |:---:|:---:|:---:|:---:|
@@ -46,7 +40,7 @@ Exploratory Data Analysis • Data Cleaning • Data Preprocessing • Statistic
 </details>
 
 <details open>
-<summary><strong>Machine Learning & AI</strong></summary>
+<summary><strong>Machine Learning &amp; AI</strong></summary>
 
 | Scikit-learn | XGBoost | Deep Learning | NLP |
 |:---:|:---:|:---:|:---:|
@@ -55,7 +49,7 @@ Exploratory Data Analysis • Data Cleaning • Data Preprocessing • Statistic
 </details>
 
 <details open>
-<summary><strong>Tools & Development</strong></summary>
+<summary><strong>Tools &amp; Development</strong></summary>
 
 | Git | GitHub | Jupyter | Flask | MySQL |
 |:---:|:---:|:---:|:---:|:---:|
@@ -67,6 +61,8 @@ Exploratory Data Analysis • Data Cleaning • Data Preprocessing • Statistic
 
 ## 📊 GitHub Activity
 
+Contributions, development activity, and open-source work.
+
 <div align="center">
 
 <!-- Contribution Graph -->
@@ -74,11 +70,8 @@ Exploratory Data Analysis • Data Cleaning • Data Preprocessing • Statistic
 
 <br/>
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=AMB-007&theme=dark&show_icons=true&hide_border=true&bg_color=0a0f1a&title_color=8b5cf6&icon_color=22d3ee" alt="GitHub Stats" height="180"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB-007&theme=dark&layout=compact&hide_border=true&bg_color=0a0f1a&title_color=8b5cf6" alt="Top Languages" height="180"/>
+<!-- GitHub Statistics -->
+<img src="https://github-readme-stats.vercel.app/api?username=AMB-007&theme=dark&show_icons=true&hide_border=true&bg_color=0a0f1a&title_color=8b5cf6&icon_color=22d3ee" alt="GitHub Statistics" height="180"/>
 
 </div>
 
@@ -86,18 +79,6 @@ Exploratory Data Analysis • Data Cleaning • Data Preprocessing • Statistic
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities involving **Data Analytics, Data Science, Machine Learning, and data-driven application development**.
+I'm interested in opportunities involving Data Analytics, Data Science, Machine Learning, and data-driven application development.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-babu-45024224a/)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AMB-007)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunmbabu2004@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-<sub>Building practical solutions with data, Python, and machine learning ⚡</sub>
-</div>
+Building practical solutions with data, Python, and machine learning ⚡
