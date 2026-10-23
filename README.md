@@ -50,17 +50,17 @@
       <h4>🐍 Programming &amp; Data</h4>
       <p>
         <a href="https://www.python.org" target="_blank">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="24"/>
+          <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE" alt="Python" height="24"/>
         </a>
         &nbsp;
         <a href="https://www.postgresql.org" target="_blank">
-          <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="24"/>
+          <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=38BDF8" alt="SQL" height="24"/>
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="24"/>
+        <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=A855F7" alt="Pandas" height="24"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="24"/>
+        <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=2DD4BF" alt="NumPy" height="24"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -68,15 +68,15 @@
       <p>
         <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-0F172A?style=flat-square&logo=databricks&logoColor=22D3EE" alt="Exploratory Data Analysis" height="24"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Data%20Cleaning-0F172A?style=flat-square&logo=apachespark&logoColor=8B5CF6" alt="Data Cleaning" height="24"/>
+        <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Preprocessing-0F172A?style=flat-square&logo=apachespark&logoColor=A855F7" alt="Data Cleaning & Preprocessing" height="24"/>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Statistical%20Analysis-0F172A?style=flat-square&logo=scipy&logoColor=38BDF8" alt="Statistical Analysis" height="24"/>
+        <img src="https://img.shields.io/badge/Statistical%20Analysis-0F172A?style=flat-square&logo=scipy&logoColor=14B8A6" alt="Statistical Analysis" height="24"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Data%20Visualization-0F172A?style=flat-square&logo=plotly&logoColor=A855F7" alt="Data Visualization" height="24"/>
+        <img src="https://img.shields.io/badge/Data%20Visualization-0F172A?style=flat-square&logo=plotly&logoColor=38BDF8" alt="Data Visualization" height="24"/>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" height="24"/>
+        <img src="https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=22D3EE" alt="Power BI" height="24"/>
       </p>
     </td>
   </tr>
@@ -84,34 +84,34 @@
     <td width="50%" valign="top">
       <h4>🤖 Machine Learning &amp; AI</h4>
       <p>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" height="24"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-0F172A?style=flat-square&logo=scikitlearn&logoColor=A855F7" alt="Scikit-Learn" height="24"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/XGBoost-18549A?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" height="24"/>
+        <img src="https://img.shields.io/badge/XGBoost-0F172A?style=flat-square&logo=xgboost&logoColor=22D3EE" alt="XGBoost" height="24"/>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Classification%20%26%20Regression-0F172A?style=flat-square&logo=diagramsdotnet&logoColor=22D3EE" alt="Classification & Regression" height="24"/>
+        <img src="https://img.shields.io/badge/Classification%20%26%20Regression-0F172A?style=flat-square&logo=diagramsdotnet&logoColor=38BDF8" alt="Classification & Regression" height="24"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Model%20Evaluation-0F172A?style=flat-square&logo=target&logoColor=8B5CF6" alt="Model Evaluation" height="24"/>
+        <img src="https://img.shields.io/badge/Model%20Evaluation-0F172A?style=flat-square&logo=target&logoColor=14B8A6" alt="Model Evaluation" height="24"/>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning" height="24"/>
+        <img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=flat-square&logo=tensorflow&logoColor=A855F7" alt="Deep Learning" height="24"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/NLP%20Fundamentals-0F172A?style=flat-square&logo=openai&logoColor=22D3EE" alt="NLP Fundamentals" height="24"/>
+        <img src="https://img.shields.io/badge/NLP-0F172A?style=flat-square&logo=openai&logoColor=2DD4BF" alt="NLP" height="24"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Tools &amp; Development</h4>
       <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="24"/>
+        <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=22D3EE" alt="Git" height="24"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="24"/>
+        <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=E2E8F0" alt="GitHub" height="24"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="24"/>
+        <img src="https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=A855F7" alt="Jupyter Notebook" height="24"/>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" height="24"/>
+        <img src="https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=14B8A6" alt="Flask" height="24"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="24"/>
+        <img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=38BDF8" alt="MySQL" height="24"/>
       </p>
     </td>
   </tr>
@@ -138,13 +138,9 @@
 
 <br/>
 
-<!-- Real GitHub Statistics Cards (Dark Violet & Cyan Theme) -->
+<!-- Real GitHub Statistics Card (Dark Violet & Cyan Theme) -->
 <a href="https://github.com/AMB-007">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMB-007&theme=dark&show_icons=true&hide_border=true&bg_color=0a0f1a&title_color=8b5cf6&icon_color=22d3ee&text_color=94a3b8" alt="Arjun M Babu GitHub Stats" height="165" />
-</a>
-&nbsp;
-<a href="https://github.com/AMB-007">
-  <img src="https://streak-stats.demolab.com?user=AMB-007&theme=dark&hide_border=true&background=0a0f1a&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=8b5cf6&dates=94a3b8" alt="Arjun M Babu GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMB-007&theme=dark&show_icons=true&hide_border=true&bg_color=0a0f1a&title_color=8b5cf6&icon_color=22d3ee&text_color=94a3b8" alt="Arjun M Babu GitHub Stats" height="175" />
 </a>
 
 </div>
